@@ -1,5 +1,5 @@
 # Hi there, My name is Stephen Ajulu 👋🤓
----
+
 ## About Me
 I'm a front end web developer, graphic designer, content creator and junior cybersecurity consultant/analyst from Kenya.
 I'm also currently doing my Bsc in IT while working on my company and other projects.
@@ -13,12 +13,12 @@ How old am i? 25!
 
 ### I'm currently working on
 - [GreeetinCard](https://greeetincard.crd.co) 🚀 *coming very soon* 🚀
-- [Tech6](#) 🚀 *coming soon* 🚀
-- [T.H.I.S](#) 🚀 *coming soon* 🚀
-- [ZeWalt](#) 🚀 *coming soon* 🚀
-- [BioEmergency & Biomme](#) 🚀 *coming soon* 🚀
+- [Tech6](#)   *coming soon* 🚀
+- [T.H.I.S](#)   *coming soon* 🚀
+- [ZeWalt](#)   *coming soon* 🚀
+- [BioEmergency & Biomme](#)   *coming soon* 🚀
 - [Quevant](#) 🚀 *coming very soon* 🚀
-- [Julink](#) 🚀 *coming soon* 🚀
+- [Julink](#)   *coming soon* 🚀
 
 ### I'm currently learning
 - Full Stack Web Development  * Progress 31% *
