@@ -1,10 +1,10 @@
 # Hi there, My name is Stephen Ajulu 👋🤓
 
 ## About Me
-I'm a front end web developer, graphic designer, content creator and junior cybersecurity consultant/analyst from Kenya.
+I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
 I'm also currently doing my Bsc in IT while working on my company and other projects.
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing a blog post, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.
+When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.
 How old am i? 25!
 
 ### I'm currently working at
