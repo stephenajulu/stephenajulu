@@ -1,4 +1,4 @@
-# Hi there, My name is Stephen Ajulu 👋🤓
+## Hi there, My name is Stephen Ajulu 👋🤓
 
 ## About Me
 I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
