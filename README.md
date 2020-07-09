@@ -17,12 +17,12 @@ How old am i? 25!
 
 ### I'm currently working on
 - [GreeetinCard](https://greeetincard.crd.co) 🚀 *coming very soon* 🚀
-- [Tech6](#)   *coming soon* 🚀
-- [T.H.I.S](#)   *coming soon* 🚀
-- [ZeWalt](#)   *coming soon* 🚀
-- [BioEmergency & Biomme](#)   *coming soon* 🚀
+- [Tech6](#)   🚀 *coming soon*
+- [T.H.I.S](#)   🚀 *coming soon*
+- [ZeWalt](#)   🚀 *coming soon*
+- [BioEmergency & Biomme](#)   🚀 *coming soon*
 - [Quevant](#) 🚀 *coming very soon* 🚀
-- [Julink](#)   *coming soon* 🚀
+- [Julink](#)   🚀 *coming soon*
 
 ### I'm currently learning
 - Full Stack Web Development  * Progress 31% *
