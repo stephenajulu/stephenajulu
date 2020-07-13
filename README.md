@@ -7,11 +7,11 @@
 <a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-## Hi there, My name is Stephen Ajulu. 👋🤓
-I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
+<h2 align="center">Hi there, My name is Stephen Ajulu. 👋🤓</h2>
+<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
 I'm also currently doing my Bsc in IT while working on my company and other projects.
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.
+When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
 ### I'm currently working at
 - [OwlSec Technologies](https://owlsectechnologies.co.ke)
