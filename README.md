@@ -27,7 +27,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
 - BioEmergency & Biomme  🚀 *coming soon*
 - Quevant  🚀 *coming very soon* 🚀
-- TechSavant(haven't found a better name yet)  🚀 *coming very soon* 🚀
+- TechSavant  🚀 *coming very soon* 🚀
 - Lofied  🚀 *coming soon*
 
 ### What am currently learning
