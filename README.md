@@ -14,19 +14,21 @@ I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocod
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
 <p>
-  <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github.com/stephenajulu/stephenajulu/blob/master/Screenshot_2020-07-13%20Ajulu's%20Blog.jpg?raw=true"></a>
+  <a href="https://blog.stephenajulu.com/"><img width="500" align='right' src="https://github.com/stephenajulu/stephenajulu/blob/master/Screenshot_2020-07-13%20Ajulu's%20Blog.jpg?raw=true"></a>
 </p>
 
 ### Where am currently working at
-- [OwlSec Technologies](https://owlsectechnologies.co.ke)
+- [OwlSec Technologies](https://owlsectechnologies.co.ke) 💼 
+- [Freelance](https://stephenajulu.com)
 
 ### What am currently working on
-- [GreeetinCard](https://greeetincard.crd.co) 🚀
-- Tech6   🚀 *coming soon*
-- [T.H.I.S](https://this1.netlify.app)   🚀 *coming very soon*
-- BioEmergency & Biomme   🚀 *coming soon*
-- Quevant 🚀 *coming very soon* 🚀
+- [GreeetinCard](https://greeetincard.crd.co)  🚀
+- Tech6  🚀 *coming soon*
+- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
+- BioEmergency & Biomme  🚀 *coming soon*
+- Quevant  🚀 *coming very soon* 🚀
 - TechSavant(haven't found a better name yet)  🚀 *coming very soon* 🚀
+- Lofied  🚀 *coming soon*
 
 ### What am currently learning
 - Full Stack Web Development  * Progress 31% *
