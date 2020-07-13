@@ -1,10 +1,10 @@
 ## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/My%20Post%20Copy%20new.png)](https://stephenajulu.com)
 
 <p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://dev.to/stephenajulu"><img height="30" src="https://raw.githubusercontent.com/stephenajulu/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hello there! My name is Stephen Ajulu. 👋🤓</h2>
@@ -14,7 +14,7 @@ I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocod
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
 <p>
-  <a href="https://blog.stephenajulu.com/"><img width="300" align='right' src="https://github.com/stephenajulu/stephenajulu/blob/master/Screenshot_2020-07-13%20Ajulu's%20Blog.jpg?raw=true"></a>
+  <a href="https://blog.stephenajulu.com/"><img width="377" align='right' src="https://github.com/stephenajulu/stephenajulu/blob/master/Screenshot_2020-07-13%20Ajulu's%20Blog.jpg?raw=true"></a>
 </p>
 
 ### Where am currently working at
