@@ -1,11 +1,11 @@
 ## Hi there, My name is Stephen Ajulu 👋🤓👇
-
 I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
 I'm also currently doing my Bsc in IT while working on my company and other projects.
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.
 
-### I'm currently working at - [OwlSec Technologies](https://owlsectechnologies.co.ke)
+### I'm currently working at
+- [OwlSec Technologies](https://owlsectechnologies.co.ke)
 
 ### I'm currently working on
 - [GreeetinCard](https://greeetincard.crd.co) 🚀
