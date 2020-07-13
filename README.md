@@ -9,11 +9,12 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [OwlSec Technologies](https://owlsectechnologies.co.ke)
 
 ### I'm currently working on
-- [GreeetinCard](https://greeetincard.crd.co) 🚀 *coming very soon* 🚀
+- [GreeetinCard](https://greeetincard.crd.co) 🚀
 - [Tech6](#)   🚀 *coming soon*
-- [T.H.I.S](#)   🚀 *coming soon*
+- [T.H.I.S](#)   🚀 *coming very soon*
 - [BioEmergency & Biomme](#)   🚀 *coming soon*
 - [Quevant](#) 🚀 *coming very soon* 🚀
+- [TechSavant(haven't found a better name yet)](#)  🚀 *coming very soon* 🚀
 
 ### I'm currently learning
 - Full Stack Web Development  * Progress 31% *
