@@ -13,6 +13,8 @@ I'm also currently doing my Bsc in IT while working on my company and other proj
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
+<center>
+
 ### I'm currently working at
 - [OwlSec Technologies](https://owlsectechnologies.co.ke)
 
@@ -36,3 +38,4 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
 - [Additional Ways](https://stephenajulu.com/links) 🔗🔗
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
+</center>
