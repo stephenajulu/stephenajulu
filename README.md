@@ -1,4 +1,4 @@
-## Hi there 👋🤓 My name is Stephen Ajulu
+## Hi there, My name is Stephen Ajulu. 👋🤓
 I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
 I'm also currently doing my Bsc in IT while working on my company and other projects.
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
