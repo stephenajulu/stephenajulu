@@ -35,10 +35,14 @@ When I'm not developing and building things, you can find me on Youtube learning
 - AI & Machine Learning  * Progress 13% *
 - Cybersecurity and Ethical Hacking  * Progress 72% *
 
-### 📫 How to reach me
+### 📫 Where to find me
+- [Facebook](https://facebook.com/stephenajulu) 😏
 - [Twitter](https://twitter.com/stephenajulu) 🐤
+- [Instagram](https://instagram.com/stephenajulu) 😎
 - [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
 - [Website](https://stephenajulu.com) 😏🔗
 - [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
-- [Additional Ways](https://stephenajulu.com/links) 🔗🔗
+- [Additional places to find me](https://stephenajulu.com/links) 🔗🔗
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
+
+![Ajulus's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
