@@ -17,11 +17,11 @@ When I'm not developing and building things, you can find me on Youtube learning
   <a href="https://blog.stephenajulu.com/"><img width="303" align='right' src="https://github.com/stephenajulu/stephenajulu/blob/master/Screenshot_2020-07-13%20Ajulu's%20Blog.jpg?raw=true"></a>
 </p>
 
-### Where am currently working at
-- [OwlSec Technologies](https://owlsectechnologies.co.ke) 💼 
-- [Freelance](https://stephenajulu.com)
+### 💼 Where am currently working at/as
+- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
+- [Open World: Freelance](https://stephenajulu.com)
 
-### What am currently working on
+### 💻 What am currently working on
 - [GreeetinCard](https://greeetincard.crd.co)  🚀
 - Tech6  🚀 *coming soon*
 - [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
@@ -30,7 +30,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - TechSavant  🚀 *coming very soon* 🚀
 - Lofied  🚀 *coming soon*
 
-### What am currently learning
+### 📖 What am currently learning
 - Full Stack Web Development  * Progress 31% *
 - AI & Machine Learning  * Progress 13% *
 - Cybersecurity and Ethical Hacking  * Progress 72% *
