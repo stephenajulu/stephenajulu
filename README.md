@@ -14,7 +14,7 @@ I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocod
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
 <p>
-  <a href="https://blog.stephenajulu.com/"><img width="403" align='right' src="https://github.com/stephenajulu/stephenajulu/blob/master/Screenshot_2020-07-13%20Ajulu's%20Blog.jpg?raw=true"></a>
+  <a href="https://blog.stephenajulu.com/"><img width="433" align='right' src="https://github.com/stephenajulu/stephenajulu/blob/master/Screenshot_2020-07-13%20Ajulu's%20Blog.jpg?raw=true"></a>
 </p>
 
 ### 💼 Where am currently working at/as
