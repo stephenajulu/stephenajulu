@@ -13,10 +13,9 @@ I'm also currently doing my Bsc in IT while working on my company and other proj
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
-<!--### Blog posts-->
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 
 ### 💼 Where i am currently working at/as
 - [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
