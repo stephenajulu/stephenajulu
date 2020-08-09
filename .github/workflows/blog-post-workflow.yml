@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "7"
-          feed_list: "https://ajulusthoughts3.netlify.com/index.xml,https://www.ajulusthoughts.wordpress.com/feed/,https://blog.stephenajulu.com/feed.xml"
+          feed_list: "https://ajulusthoughts3.netlify.com/index.xml/,https://www.ajulusthoughts.wordpress.com/feed/,https://blog.stephenajulu.com/feed.xml/"
