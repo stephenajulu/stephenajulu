@@ -1,7 +1,7 @@
 ## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
 
 <p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blog/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
@@ -13,15 +13,10 @@ I'm also currently doing my Bsc in IT while working on my company and other proj
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
-<p align="right">
-
-
   # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-</p>
 
 ### 💼 Where i am currently working at/as
 - [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
