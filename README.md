@@ -15,6 +15,11 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Review Guidlines and Request Submition](https://ajulusthoughts3.netlify.app/review-request/)
+- [Advertise Here](https://ajulusthoughts3.netlify.app/advertise-here/)
+- [Guest Posting](https://ajulusthoughts3.netlify.app/guest-posting/)
+- [I Want To Sign Up To Your Newsletter](https://ajulusthoughts3.netlify.app/newsletter/)
+- [Terms and Conditions](https://ajulusthoughts3.netlify.app/terms-and-conditions/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
