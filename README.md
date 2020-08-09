@@ -1,7 +1,7 @@
-## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/edited%20header.png)](https://stephenajulu.com)
+## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
 
 <p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://raw.githubusercontent.com/stephenajulu/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
@@ -13,12 +13,17 @@ I'm also currently doing my Bsc in IT while working on my company and other proj
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
-<p>
-  <a href="https://blog.stephenajulu.com/"><img width="333" align='right' src="https://github.com/stephenajulu/stephenajulu/blob/master/Screenshot_2020-07-13%20Ajulu's%20Blog.jpg?raw=true"></a>
+<p align="right">
+
+  # Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 </p>
 
 ### 💼 Where i am currently working at/as
 - [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
+- [TechWit Ke: Chief Editor, Developer and Founder](https://techwit3.netlify.com) ✒
 - [Open World: Freelance](https://stephenajulu.com)
 
 ### 💻 What i am currently/done working on
@@ -27,13 +32,15 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
 - BioEmergency & Biomme  🚀 *coming soon*
 - Quevant  🚀 *coming very soon* 🚀
-- TechSavant  🚀 *coming very soon* 🚀
+- [TechWit Ke](https://techwit2.netlify.app)  🚀 *coming very soon* 🚀
 - Lofied  🚀 *coming soon*
+- [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
 
 ### 📖 What i am currently learning
 - Full Stack Web Development  * Progress 31% *
 - AI & Machine Learning  * Progress 13% *
 - Cybersecurity and Ethical Hacking  * Progress 72% *
+- Japanese Language  * Progress 12% *
 
 ### 📫 Where to find me
 - [Facebook](https://facebook.com/stephenajulu) 😏
@@ -46,5 +53,3 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
-
-<!-- ![Ajulus's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
