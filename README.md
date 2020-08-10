@@ -10,8 +10,8 @@
 <h2 align="center">Hello there! My name is Stephen Ajulu. 👋🤓</h2>
 <p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
 I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
+I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging and Automation.
+When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects(my own and my clients) and watching anime</p>
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -54,5 +54,3 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenajulu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
