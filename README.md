@@ -49,3 +49,5 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenajulu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
