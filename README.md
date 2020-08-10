@@ -13,13 +13,8 @@ I'm also currently doing my Bsc in IT while working on my company and other proj
 I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
-### Blog Posts
+### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Review Guidlines and Request Submition](https://ajulusthoughts3.netlify.app/review-request/)
-- [Advertise Here](https://ajulusthoughts3.netlify.app/advertise-here/)
-- [Guest Posting](https://ajulusthoughts3.netlify.app/guest-posting/)
-- [I Want To Sign Up To Your Newsletter](https://ajulusthoughts3.netlify.app/newsletter/)
-- [Terms and Conditions](https://ajulusthoughts3.netlify.app/terms-and-conditions/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
