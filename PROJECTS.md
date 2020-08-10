@@ -40,7 +40,7 @@ Now there will be 2 versions. A Progressive Static Web App and USSD. USSD for pe
 
 # Biomme and BioEmergency
 ### Collaborations: Accepted and Needed
-## Platform: React/Gatsby, Go/Hugo, Vue/Gridsome, USSD or something fast, easy to maintain and code with a CMS for easier editing, uploading and viewing with stats eg to see blood pressure changes for the last 2 years
+### Platform: React/Gatsby, Go/Hugo, Vue/Gridsome, USSD or something fast, easy to maintain and code with a CMS for easier editing, uploading and viewing with stats eg to see blood pressure changes for the last 2 years
 ### To Do List: The actual system build
 ### What is it?
 Now these 2 were intially supposed to be 1 system but i divided them becuase of the difficulty in building them. Biomme is a digital business card, networking tool and personal information storage.
