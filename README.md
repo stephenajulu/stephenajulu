@@ -38,9 +38,9 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
 
 ### 📖 What i am currently learning
-- Full Stack Web Development  * Progress 31% *
+- Full Stack Web Development  * Progress 37% *
 - AI & Machine Learning  * Progress 13% *
-- Cybersecurity and Ethical Hacking  * Progress 72% *
+- Cybersecurity and Ethical Hacking  * Progress 74% *
 - Japanese Language  * Progress 12% *
 
 ### 📫 Where to find me
@@ -52,5 +52,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
 - [Additional places to find me](https://stephenajulu.com/links) 🔗🔗
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
+- [New Blog: Coming Soon](https://ajulusthoughts3.netlify.app) 🔨✒
+- [TechWit Ke: Also Coming Soon](https://techwit2.netlify.app) 🔨✒
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
