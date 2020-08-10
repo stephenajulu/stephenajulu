@@ -66,7 +66,7 @@ A multiauthored tech, cybersecurity and development blog with quality content. Y
 
 # Lofied
 ### Collaborations: Accepted and Needed
-## Platform: React/Gatsby, Vue or something fast, easy to maintain and code with a CMS and more features eg importing videos and audio from other platforms and being able to work offline
+### Platform: React/Gatsby, Vue or something fast, easy to maintain and code with a CMS and more features eg importing videos and audio from other platforms and being able to work offline
 ### To Do List: The actual build
 ### What is it? It...
 I can't say just how much i love LoFi, so am building a litle something for all the LoFi lovers out there. The one place to find lofi, relaxing music, ASMR, old music and more.
