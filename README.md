@@ -39,12 +39,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 - Lofied  🚀 *coming soon*
 - [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
 
-### 📖 What i am currently learning
-- Full Stack Web Development  * Progress 37% *
-- AI & Machine Learning  * Progress 13% *
-- Cybersecurity and Ethical Hacking  * Progress 74% *
-- Japanese Language  * Progress 12% *
-
 ### 📫 Where to find me
 - [Facebook](https://facebook.com/stephenajulu) 😏
 - [Twitter](https://twitter.com/stephenajulu) 🐤
