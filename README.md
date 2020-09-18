@@ -40,15 +40,15 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
 
 ### 📫 Where to find me
-- [Facebook](https://facebook.com/stephenajulu) 😏
-- [Twitter](https://twitter.com/stephenajulu) 🐤
-- [Instagram](https://instagram.com/stephenajulu) 😎
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
-- [Website](https://stephenajulu.com) 😏🔗
-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
-- [Additional places to find me](https://stephenajulu.com/links) 🔗🔗
-- [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
-- [New Blog: Coming Soon](https://ajulusthoughts3.netlify.app) 🔨✒
+- [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://facebook.com/stephenajulu) 😏
+- [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/stephenajulu) 🐤
+- [![Instagram](https://img.shields.io/badge/--instagram?label=Instageam&logo=Instagram&style=social)](https://instagram.com/stephenajulu) 😎
+- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/stephenajulu) 👨💼
+- [![Website](https://img.shields.io/badge/Website-know%20more-blue)](https://stephenajulu.com) 😏🔗
+- [![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=Blogger&style=social)](https://ajulusthoughts.wordpress.com) 🤓💻
+- [![Additional places to find me](https://img.shields.io/badge/Find%20me-I%20am%20%40-blue)](https://stephenajulu.com/links) 🔗🔗
+- [![Sign up for my newsletter](https://img.shields.io/badge/News-News%20Letter-blue)](https://ajulusthoughts.substack.com) 💌
+- [![New Blog: Coming Soon](https://img.shields.io/badge/--blog?label=New%20Blog&logo=Blogger&style=social)](https://ajulusthoughts3.netlify.app) 🔨✒
 - [TechWit Ke: Also Coming Soon](https://techwit2.netlify.app) 🔨✒
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
