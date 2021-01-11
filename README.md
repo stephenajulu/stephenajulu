@@ -40,6 +40,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [TechWit Ke](https://techwit2.netlify.app)  🚀
 - Lofied  🚀 *coming soon*
 - [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
+- [The Bistro Ke Daily Newsletter](https://thebistronewsletter.netlify.app)  🚀
+- [SAOA inc and Subsidiaries(SAOA Media, SAOA Tech, SAOA Logistics, SAOA Agri, SAOA Foundation)](https://saoainc.netlify.app)  🚀
 
 ### 📫 Where to find me
 - [Facebook](https://facebook.com/stephenajulu) 😏
