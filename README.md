@@ -15,6 +15,8 @@ When I'm not developing and building things, you can find me watching things on 
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
+<center>
+  
 ### 💼💻 What & Where i am currently working at/on
 - [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
 - [The Noesis: Chief Editor, Developer and Founder](https://thenoesis11.netlify.com) ✒
@@ -30,6 +32,7 @@ When I'm not developing and building things, you can find me watching things on 
 - BioEmergency & Biomme: Founder and Developer  🚀 *coming soon*
 - Lofyd  🚀 *coming soon*
 
+</center>
 -----
 
 ##### Find Me On:  [Facebook](https://facebook.com/stephenajulu), [Twitter](https://twitter.com/stephenajulu), [Instagram](https://instagram.com/stephenajulu), [LinkedIn](https://linkedin.com/in/stephenajulu), [My Website](https://stephenajulu.com) or [My Blog](https://stephenajulu.com/blog)
