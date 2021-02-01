@@ -41,4 +41,4 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
 
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical&align=left)
+![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical&align=right)
