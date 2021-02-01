@@ -23,18 +23,12 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Open World: Freelance](https://stephenajulu.com)
 - Men's Manifest Clothing Store: Founder and Dev
 - Sepochi Co Online Store: Founder and Dev
--------
-- [Stephen Ajulu's Personal Portfolio, Blog and Notes Website](https://stephenajulu.com)  🚀 ....
-- [GreeetinCard](https://greeetincard.carrd.co)  🚀 *coming soon*
-- Tech6  🚀 *coming soon*
-- [T.H.I.S](https://this1.netlify.app)  🚀 *coming soon*
-- BioEmergency & Biomme  🚀 *coming soon*
-- Sepochi Co  🚀 *coming soon* 
-- [The Noesis Ke](https://thenoesis11.netlify.app)  🚀
+- [Stephen Ajulu's Personal Portfolio, Blog and Notes Website: Owner and Developer](https://stephenajulu.com)  🚀 ....
+- [GreeetinCard: Founder, Developer and Integrater](https://greeetincard.carrd.co)  🚀 *coming soon*
+- Tech6: Founder and Developer  🚀 *coming soon*
+- [T.H.I.S: Founder, Developer and Data Entry](https://this1.netlify.app)  🚀 *coming soon*
+- BioEmergency & Biomme: Founder and Developer  🚀 *coming soon*
 - Lofyd  🚀 *coming soon*
-- [The Bistro Ke Daily Newsletter](https://thebistronewsletter.netlify.app)  🚀 *coming soon*
-- [SAOA inc and Subsidiaries Website(SAOA Media, Tech, Logistics, Agriculture, Laboratories and Foundation)](https://saoainc.netlify.app)  🚀 *coming soon*
-- Men's Manifest Clothing Store  🚀 *coming soon*
 
 ### 📫 Where to find me
 - [Facebook](https://facebook.com/stephenajulu) 😏
