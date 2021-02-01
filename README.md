@@ -13,7 +13,7 @@ I'm currently pursuing my Bsc in IT while working on my company and other projec
 I currently passionate about JAMstack, PWAs, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
 When I'm not developing and building things, you can find me watching things on youtube, writing articles, watching anime, daydreaming or on my laptop gaming. But most of my days are spent working on projects, listening to LoFi/ChillHop/RainyJazz, Studying or watching anime</p>
 
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
+<h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
 ### 💼💻 Where i am currently working at/as/on
 - [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
