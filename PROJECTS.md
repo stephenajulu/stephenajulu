@@ -74,7 +74,7 @@ No more opening multiple websites just to enjoy yourself and relax. A music stre
 
 
 ## More to come
-## Other Improtant Information
+## Other Important Information
 All collaborators will be Co-Founders or part of the company depending with the circumstances.
 You might be required to sign an NDA depending with the project.Those requiring an NDA will be marked "NDA" next to their titles.
 Some have been intentionally omitted for intelectual property sake. You can inquire about them. Only basic info will be given.
