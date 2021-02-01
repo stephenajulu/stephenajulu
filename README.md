@@ -28,20 +28,23 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
 - [TechWit Ke: Chief Editor, Developer and Founder](https://techwit3.netlify.com) ✒
 - [The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer](https://thebistronewsletter.netlify.app)☕
-- [SAOA inc(SAOA Media and SAOA Tech): Founder, Editor in Chief, Designer, Consultant and Developer](https://saoainc.netlify.app)
+- [SAOA inc(SAOA Media, Tech. Agriculture, Laboratories, Logistics and Foundation): Founder, Editor in Chief, Designer, Consultant and Developer](https://saoainc.netlify.app)
 - [Open World: Freelance](https://stephenajulu.com)
+- Men's Manifest Clothing Store: Founder and Dev
+- Sepochi Co Online Store: Founder and Dev
 
-### 💻 What i am currently/done working on
-- [GreeetinCard](https://greeetincard.carrd.co)  🚀
+### 💻 What am i currently/done working on
+- [Stephen Ajulu's Personal Portfolio, Blog and Notes Website](https://stephenajulu.com)  🚀 ....
+- [GreeetinCard](https://greeetincard.carrd.co)  🚀 *coming soon*
 - Tech6  🚀 *coming soon*
-- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
+- [T.H.I.S](https://this1.netlify.app)  🚀 *coming soon*
 - BioEmergency & Biomme  🚀 *coming soon*
-- Quevant  🚀 *coming very soon* 🚀
-- [TechWit Ke](https://techwit2.netlify.app)  🚀
-- Lofied  🚀 *coming soon*
-- [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
-- [The Bistro Ke Daily Newsletter](https://thebistronewsletter.netlify.app)  🚀
-- [SAOA inc and Subsidiaries(SAOA Media, SAOA Tech, SAOA Logistics, SAOA Agri, SAOA Foundation)](https://saoainc.netlify.app)  🚀
+- Sepochi Co  🚀 *coming soon* 
+- [The Noesis Ke](https://thenoesis11.netlify.app)  🚀
+- Lofyd  🚀 *coming soon*
+- [The Bistro Ke Daily Newsletter](https://thebistronewsletter.netlify.app)  🚀 *coming soon*
+- [SAOA inc and Subsidiaries Website(SAOA Media, Tech, Logistics, Agriculture, Laboratories and Foundation)](https://saoainc.netlify.app)  🚀 *coming soon*
+- Men's Manifest Clothing Store  🚀 *coming soon*
 
 ### 📫 Where to find me
 - [Facebook](https://facebook.com/stephenajulu) 😏
