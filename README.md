@@ -1,7 +1,7 @@
 ## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
 
 <p align='center'>
-<a href="https://stephenajulu.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg" style="color:#3b5998;"></a>&nbsp;&nbsp;
+<a href="https://stephenajulu.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg" style="background-color:#3b5998;"></a>&nbsp;&nbsp;
 <a href="https://facebook.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
