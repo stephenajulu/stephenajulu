@@ -15,16 +15,15 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
-### 💼 Where i am currently working at/as
+### 💼💻 Where i am currently working at/as/on
 - [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
-- [TechWit Ke: Chief Editor, Developer and Founder](https://techwit3.netlify.com) ✒
+- [The Noesis: Chief Editor, Developer and Founder](https://thenoesis11.netlify.com) ✒
 - [The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer](https://thebistronewsletter.netlify.app)☕
 - [SAOA inc(SAOA Media, Tech. Agriculture, Laboratories, Logistics and Foundation): Founder, Editor in Chief, Designer, Consultant and Developer](https://saoainc.netlify.app)
 - [Open World: Freelance](https://stephenajulu.com)
 - Men's Manifest Clothing Store: Founder and Dev
 - Sepochi Co Online Store: Founder and Dev
-
-### 💻 What am i currently/done working on
+-------
 - [Stephen Ajulu's Personal Portfolio, Blog and Notes Website](https://stephenajulu.com)  🚀 ....
 - [GreeetinCard](https://greeetincard.carrd.co)  🚀 *coming soon*
 - Tech6  🚀 *coming soon*
@@ -43,10 +42,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Instagram](https://instagram.com/stephenajulu) 😎
 - [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
 - [Website](https://stephenajulu.com) 😏🔗
-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
-- [Additional places to find me](https://stephenajulu.com/links) 🔗🔗
+- [Blog](https://stephenajulu.com/blog) 🤓💻
+- [Additional places to find me](https://stephenajulu.com/bio) 🔗🔗
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
-- [New Blog: Coming Soon](https://ajulusthoughts3.netlify.app) 🔨✒
-- [TechWit Ke](https://techwit2.netlify.app) 🔨✒
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
