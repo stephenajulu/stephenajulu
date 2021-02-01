@@ -17,20 +17,21 @@ When I'm not developing and building things, you can find me watching things on 
 
 <center>
   
-### 💼💻 What & Where i am currently working at/on
-- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
-- [The Noesis: Chief Editor, Developer and Founder](https://thenoesis11.netlify.com) ✒
-- [The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer](https://thebistronewsletter.netlify.app)☕
-- [SAOA inc(SAOA Media, Tech. Agriculture, Laboratories, Logistics and Foundation): Founder, Editor in Chief, Designer, Consultant and Developer](https://saoainc.netlify.app)
-- [Open World: Freelance](https://stephenajulu.com)
-- Men's Manifest Clothing Store: Founder and Dev
-- Sepochi Co Online Store: Founder and Dev
-- [Stephen Ajulu's Personal Portfolio, Blog and Notes Website: Owner and Developer](https://stephenajulu.com)  🚀 ....
-- [GreeetinCard: Founder, Developer and Integrater](https://greeetincard.carrd.co)  🚀 *coming soon*
-- Tech6: Founder and Developer  🚀 *coming soon*
-- [T.H.I.S: Founder, Developer and Data Entry](https://this1.netlify.app)  🚀 *coming soon*
-- BioEmergency & Biomme: Founder and Developer  🚀 *coming soon*
-- Lofyd  🚀 *coming soon*
+<h3>💼💻 What & Where i am currently working at/on</h3>
+
+[OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
+[The Noesis: Chief Editor, Developer and Founder](https://thenoesis11.netlify.com) ✒
+[The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer](https://thebistronewsletter.netlify.app)☕
+[SAOA inc(SAOA Media, Tech. Agriculture, Laboratories, Logistics and Foundation): Founder, Editor in Chief, Designer, Consultant and Developer](https://saoainc.netlify.app)
+[Open World: Freelance](https://stephenajulu.com)
+Men's Manifest Clothing Store: Founder and Dev
+Sepochi Co Online Store: Founder and Dev
+[Stephen Ajulu's Personal Portfolio, Blog and Notes Website: Owner and Developer](https://stephenajulu.com)  🚀 ....
+[GreeetinCard: Founder, Developer and Integrater](https://greeetincard.carrd.co)  🚀 *coming soon*
+Tech6: Founder and Developer  🚀 *coming soon*
+[T.H.I.S: Founder, Developer and Data Entry](https://this1.netlify.app)  🚀 *coming soon*
+BioEmergency & Biomme: Founder and Developer  🚀 *coming soon*
+Lofyd  🚀 *coming soon*
 
 </center>
 -----
