@@ -15,25 +15,25 @@ When I'm not developing and building things, you can find me watching things on 
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
-<center>
   
 <h3>💼💻 What & Where i am currently working at/on</h3>
+<p align="center">
+<a href="https://owlsectechnologies.co.ke">OwlSec Technologies: Founder and Consultant 💼</a><br>
+<a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a><br>
+<a href="https://thebistronewsletter.netlify.app">The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer ☕</a><br>
+<a href="https://saoainc.netlify.app">SAOA inc(SAOA Media, Tech. Agriculture, Laboratories, Logistics and Foundation): Founder, Editor in Chief, Designer, Consultant and Developer 💼</a><br>
+<a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a><br>
+<a href="https://stephenajulu.com">Open World: Freelance 🌐</a><br>
+Men's Manifest Clothing Store: Founder and Dev 🚀 <em>coming soon</em><br>
+Sepochi Co Online Store: Founder and Dev 🚀 <em>coming soon</em><br>
+<a href="https://stephenajulu.com">Stephen Ajulu's Personal Portfolio, Blog and Notes Website: Owner and Developer</a>  🚀 ....<br>
+<a href="https://greeetincard.carrd.co">GreeetinCard: Founder, Developer and Designer</a>  🚀 <em>coming soon</em><br>
+Tech6: Founder and Developer  🚀 <em>coming soon</em><br>
+<a href="https://this1.netlify.app">T.H.I.S: Founder, Developer and Data Entry</a>  🚀 <em>coming soon</em><br>
+BioEmergency & Biomme: Founder and Developer  🚀 <em>coming soon</em><br>
+Lofyd  🚀 <em>coming soon</em>
+</p>
 
-[OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
-[The Noesis: Chief Editor, Developer and Founder](https://thenoesis11.netlify.com) ✒
-[The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer](https://thebistronewsletter.netlify.app)☕
-[SAOA inc(SAOA Media, Tech. Agriculture, Laboratories, Logistics and Foundation): Founder, Editor in Chief, Designer, Consultant and Developer](https://saoainc.netlify.app)
-[Open World: Freelance](https://stephenajulu.com)
-Men's Manifest Clothing Store: Founder and Dev
-Sepochi Co Online Store: Founder and Dev
-[Stephen Ajulu's Personal Portfolio, Blog and Notes Website: Owner and Developer](https://stephenajulu.com)  🚀 ....
-[GreeetinCard: Founder, Developer and Integrater](https://greeetincard.carrd.co)  🚀 *coming soon*
-Tech6: Founder and Developer  🚀 *coming soon*
-[T.H.I.S: Founder, Developer and Data Entry](https://this1.netlify.app)  🚀 *coming soon*
-BioEmergency & Biomme: Founder and Developer  🚀 *coming soon*
-Lofyd  🚀 *coming soon*
-
-</center>
 -----
 
 ##### Find Me On:  [Facebook](https://facebook.com/stephenajulu), [Twitter](https://twitter.com/stephenajulu), [Instagram](https://instagram.com/stephenajulu), [LinkedIn](https://linkedin.com/in/stephenajulu), [My Website](https://stephenajulu.com) or [My Blog](https://stephenajulu.com/blog)
