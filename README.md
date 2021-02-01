@@ -8,10 +8,10 @@
 </p>
 
 <h2 align="center">Hello there! My name is Stephen Ajulu. 👋🤓</h2>
-<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
-I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article on one of my blog(or company blog), watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects(my own and my clients) while listening to LoFi, ChillHop and/or Rainy Jazz, Studying or watching anime</p>
+<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and I.T/Cybersecurity Consultant from Kenya.
+I'm currently pursuing my Bsc in IT while working on my company and other projects.
+I currently passionate about JAMstack, PWAs, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
+When I'm not developing and building things, you can find me watching things on youtube, writing articles, watching anime, daydreaming or on my laptop gaming. But most of my days are spent working on projects, listening to LoFi/ChillHop/RainyJazz, Studying or watching anime</p>
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
@@ -39,6 +39,3 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Blog](https://stephenajulu.com/blog) 🤓💻
 - [Additional places to find me](https://stephenajulu.com/bio) 🔗🔗
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical" alt="Stephen Ajulu's GitHub Stats" align="right"  width="100px" />
