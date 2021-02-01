@@ -31,11 +31,6 @@ When I'm not developing and building things, you can find me watching things on 
 - Lofyd  🚀 *coming soon*
 
 ### 📫 Where to find me
-- [Facebook](https://facebook.com/stephenajulu) 😏
-- [Twitter](https://twitter.com/stephenajulu) 🐤
-- [Instagram](https://instagram.com/stephenajulu) 😎
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
-- [Website](https://stephenajulu.com) 😏🔗
-- [Blog](https://stephenajulu.com/blog) 🤓💻
-- [Additional places to find me](https://stephenajulu.com/bio) 🔗🔗
-- [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
+On [Facebook](https://facebook.com/stephenajulu) 😏, [Twitter](https://twitter.com/stephenajulu) 🐤, [Instagram](https://instagram.com/stephenajulu) 😎, [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼, [Website](https://stephenajulu.com) 😏🔗, [Blog](https://stephenajulu.com/blog) 🤓💻 or [Other places](https://stephenajulu.com/bio) 🔗🔗 
+
+[Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
