@@ -15,7 +15,7 @@ When I'm not developing and building things, you can find me watching things on 
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
-### 💼💻 Where/What i am currently/done working at/on
+### 💼💻 Where & What i am currently working at/on
 - [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
 - [The Noesis: Chief Editor, Developer and Founder](https://thenoesis11.netlify.com) ✒
 - [The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer](https://thebistronewsletter.netlify.app)☕
