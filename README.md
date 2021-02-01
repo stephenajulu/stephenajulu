@@ -32,6 +32,6 @@ When I'm not developing and building things, you can find me watching things on 
 
 Find Me On:  [Facebook](https://facebook.com/stephenajulu), [Twitter](https://twitter.com/stephenajulu), [Instagram](https://instagram.com/stephenajulu), [LinkedIn](https://linkedin.com/in/stephenajulu), [My Website](https://stephenajulu.com) or [My Blog](https://stephenajulu.com/blog)
 
-[Other places you can find me in/at](https://stephenajulu.com/bio) 🔗🔗 
+[Other places you can find me](https://stephenajulu.com/bio) 🔗🔗 
 
 [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
