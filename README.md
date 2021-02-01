@@ -43,4 +43,4 @@ Lofyd  🚀 <em>coming soon</em>
 
 -----
 
-<h5 align="center"><a href="https://stephenajulu.com/bio">Other places you can find me 🔗🔗</a> &nbsp; &nbsp; &nbsp; <a href="https://ajulusthoughts.substack.com">💌 Sign up for my newsletter</a></h5>
+<h5 align="center"><a href="https://stephenajulu.com/links">Other places you can find me 🔗🔗</a> &nbsp; &nbsp; &nbsp; <a href="https://ajulusthoughts.substack.com">💌 Sign up for my newsletter</a></h5>
