@@ -16,7 +16,7 @@ When I'm not developing and building things, you can find me watching things on 
 <h4 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
   
-<h3 align="center">💼💻 What & Where i am currently working at/on</h3>
+<h3 align="center">💼💻 What & Where i am currently working at/on/as</h3>
 <p align="center">
 <a href="https://owlsectechnologies.co.ke">OwlSec Technologies: Founder and Consultant 💼</a><br>
 <a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a><br>
