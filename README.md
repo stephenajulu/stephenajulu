@@ -28,7 +28,7 @@ When I'm not developing and building things, you can find me watching things on 
 <a href="https://owlsectechnologies.co.ke">OwlSec Technologies: Founder and Consultant 💼</a><br>
 <a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a><br>
 <a href="https://thebistronewsletter.netlify.app">The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer ☕</a><br>
-<a href="https://saoainc.netlify.app">SAOA Media, Tech. Agriculture, Laboratories, Logistics and Foundation: Founder, Editor in Chief, Designer and Developer 💼</a><br>
+<a href="https://saoainc.netlify.app">SAOA Media, Tech and Agriculture: Founder, Designer and Developer 💼</a><br>
 <a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a><br>
 <a href="https://stephenajulu.com">Open World: Freelance 🌐</a><br>
 Men's Manifest Clothing Store: Founder and Dev 🚀 <em>coming soon</em><br>
