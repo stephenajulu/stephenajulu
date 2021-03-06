@@ -17,7 +17,7 @@
 <h2 align="center">Hello there! My name is Stephen Ajulu. 👋🤓</h2>
 <p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and I.T/Cybersecurity Consultant from Kenya.
 I'm currently pursuing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, PWAs, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
+I'm currently passionate about JAMstack, PWAs, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
 When I'm not developing and building things, you can find me watching things on youtube, writing articles, watching anime, daydreaming or on my laptop gaming. But most of my days are spent working on projects, listening to LoFi/ChillHop/RainyJazz, Studying or watching anime</p>
 
 <hr>
