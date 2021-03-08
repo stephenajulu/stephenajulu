@@ -26,12 +26,10 @@ When I'm not developing and building things, you can find me watching things on 
 <h3 align="center">💼💻 What & Where I am currently working at/on/as</h3>
 <p align="center">
 <a href="https://owlsectechnologies.co.ke">OwlSec Technologies: Founder and Consultant 💼</a><br>
-<a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a><br>
 <a href="https://thebistronewsletter.netlify.app">The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer ☕</a><br>
 <a href="https://saoainc.netlify.app">SAOA Media, Tech and Agriculture: Founder, Designer and Developer 💼</a><br>
-<a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a><br>
+<a href="https://thenoesismagazine.netlify.app">The Noesis Magazine: Chief Editor, Developer and Founder ✒</a><br>
 <a href="https://stephenajulu.com">Open World: Freelance 🌐</a><br>
-Men's Manifest Clothing Store: Founder and Dev 🚀 <em>coming soon</em><br>
 Sepochi Co Online Store: Founder and Dev 🚀 <em>coming soon</em><br>
 <a href="https://stephenajulu.com">Stephen Ajulu's Personal Portfolio, Blog and Notes Website: Owner and Developer</a>  🚀 ....<br>
 <a href="https://greeetincard.carrd.co">GreeetinCard: Founder, Developer and Designer</a>  🚀 <em>coming soon</em><br>
