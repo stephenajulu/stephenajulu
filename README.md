@@ -23,6 +23,12 @@ When I'm not developing and building things, you can find me watching things on 
 <hr>
 
 <h4 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h4>  
+
+<!-- BLOG-POST-LIST:START --> 
+
+<!-- BLOG-POST-LIST:END -->
+
+
 <h3 align="center">💼💻 What & Where I am currently working at/on/as</h3>
 <p align="center">
 <a href="https://owlsectechnologies.co.ke">OwlSec Technologies: Founder and Consultant 💼</a><br>
