@@ -27,7 +27,12 @@ When I'm not developing and building things, you can find me watching things on 
 <hr>
 
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
+- [How To Build An MVP](https://ajulusthoughts.stephenajulu.com/post/how-to-build-an-mvp/)
+- [My Favorite Android Apps](https://ajulusthoughts.stephenajulu.com/post/my-favorite-android-apps/)
+- [Starlink, Elon Musk's Satellite Internet Will Soon Be Launched in Kenya](https://ajulusthoughts.stephenajulu.com/post/starlink-elon-musk-s-satellite-internet-will-soon-be-launched-in-kenya/)
+- [How To Invest](https://ajulusthoughts.stephenajulu.com/post/how-to-get-started-investing/)
+- [Must Have Eye Wear](https://ajulusthoughts.stephenajulu.com/post/must-have-eye-wear/)
 <!-- BLOG-POST-LIST:END -->
 
 
