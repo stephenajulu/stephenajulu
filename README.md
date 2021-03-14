@@ -24,8 +24,10 @@ When I'm not developing and building things, you can find me watching things on 
 
 <h4 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h4>  
 
-<!-- BLOG-POST-LIST:START --> 
+<hr>
 
+<h3>📕 My Latest Articles, Podcasts and Videos</h3>
+<!-- BLOG-POST-LIST:START --> 
 <!-- BLOG-POST-LIST:END -->
 
 
