@@ -26,7 +26,9 @@ When I'm not developing and building things, you can find me watching things on 
 
 <hr>
 
-<h3>📕 My Latest Articles, Podcasts and Videos</h3>
+<h3 align="center">📕 My Latest Articles, Podcasts and Videos</h3>
+<div align="center">
+  
 <!-- BLOG-POST-LIST:START -->
 - [How To Build An MVP](https://ajulusthoughts.stephenajulu.com/post/how-to-build-an-mvp/)
 - [My Favorite Android Apps](https://ajulusthoughts.stephenajulu.com/post/my-favorite-android-apps/)
@@ -34,6 +36,8 @@ When I'm not developing and building things, you can find me watching things on 
 - [How To Invest](https://ajulusthoughts.stephenajulu.com/post/how-to-get-started-investing/)
 - [Must Have Eye Wear](https://ajulusthoughts.stephenajulu.com/post/must-have-eye-wear/)
 <!-- BLOG-POST-LIST:END -->
+  
+  </div>
 
 
 <h3 align="center">💼💻 What & Where I am currently working at/on/as</h3>
