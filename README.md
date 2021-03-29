@@ -30,11 +30,11 @@ When I'm not developing and building things, you can find me watching things on 
 <div align="center">
   
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite Android Apps 2021](https://ajulusthoughts.stephenajulu.com/post/my-favorite-android-apps-2021/)
 - [Advice to my 17 Year Old Self and Others](https://ajulusthoughts.stephenajulu.com/post/what-i-would-advice-my-17-to-25-year-old-self/)
 - [How To Build An MVP](https://ajulusthoughts.stephenajulu.com/post/how-to-build-an-mvp/)
 - [My Favorite Android Apps](https://ajulusthoughts.stephenajulu.com/post/my-favorite-android-apps/)
 - [Starlink, Elon Musk's Satellite Internet Will Soon Be Launched in Kenya](https://ajulusthoughts.stephenajulu.com/post/starlink-elon-musk-s-satellite-internet-will-soon-be-launched-in-kenya/)
-- [How To Invest](https://ajulusthoughts.stephenajulu.com/post/how-to-get-started-investing/)
 <!-- BLOG-POST-LIST:END -->
   
   </div>
