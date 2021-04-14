@@ -1,3 +1,4 @@
+<div align="center">
 <h3>Hi there! 👋🤓<br>I'm Stephen Ajulu<br>an I.T Consultant, Web Developer, <br>Entrepreneur, Graphic Designer, <br>Content Creator and Cybsecurity Strategist</h3>
 
 <h4> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> </h4>
@@ -25,3 +26,4 @@ Tech6: Founder and Developer  🚀 <em>coming soon</em><br>
 BioEmergency & Biomme: Founder and Developer  🚀 <em>coming soon</em><br>
 Lofyd  🚀 <em>coming soon</em>
 </p>
+</div>
