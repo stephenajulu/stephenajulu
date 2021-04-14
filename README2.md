@@ -3,6 +3,8 @@
 
 <h4> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> </h4>
 
+<a href="https://stephenajulu.com"><img src="images/rsz 300w asset_1.png" width="200"></a>
+
 <hr width="50%" style="height:5px;">
 
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
