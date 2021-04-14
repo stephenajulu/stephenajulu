@@ -1,4 +1,5 @@
-<h3>I'm Stephen Ajulu<br>an I.T Consultant, Web Developer, Entrepreneur, Graphic Designer, Content Creator and Cybsecurity Strategist</h3>
+<h3>Hi there! 👋🤓
+<h3>I'm Stephen Ajulu<br>an I.T Consultant, Web Developer, <br>Entrepreneur, Graphic Designer, <br>Content Creator and Cybsecurity Strategist</h3>
 
 <h4> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> </h4>
 
