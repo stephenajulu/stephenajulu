@@ -1,24 +1,12 @@
-<h3 align="center">Hi there! 👋🤓</h3>
+<h3>I'm Stephen Ajulu<br>an I.T Consultant, Web Developer, Entrepreneur, Graphic Designer, Content Creator and Cybsecurity Strategist</h3>
 
-<h2 align="center">I'm Stephen Ajulu<br>an I.T Consultant, Web Developer, Graphic Designer, Content Creator and Cybsecurity Strategist</h2>
-
-<h4 align="center"> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> </h4>
-
-<hr width="80%" style="height: 5px;">
-
-<p align="center">I'm a Creative, Entreprenuer and I.T Expert based in Nairobi, Kenya. I'm currently pursuing a Bachelor's Degree fo Science in IT while working as a freelancr and entreprenuer. I'm currently passionate about JAMstack, PWAs, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
-When I'm not designing and building things, you can find me binge watching videos on YouTube, writing articles, watching anime, daydreaming or gaming(rarely). But most of my days are spent working on projects, listening to LoFi/ChillHop/RainyJazz, studying or watching anime</p>
-
-<br>
+<h4> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> </h4>
 
 ---
-
-<br>
 
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
