@@ -16,21 +16,13 @@ When I'm not designing and building things, you can find me binge watching video
 <br>
 
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
+
 <!-- BLOG-POST-LIST:START -->
-- [5 Places To Spray A Fragrance On For A More Powerful and Long Lasting Effect](https://ajulusthoughts.stephenajulu.com/post/5-places-to-spray-a-fragrance-on-for-a-more-powerful-and-long-lasting-effect/)
-- [5 Must Have Microsoft Edge Browser Extensions](https://ajulusthoughts.stephenajulu.com/post/5-must-have-microsoft-edge-browser-extensions/)
-- [App of The Week #1](https://ajulusthoughts.stephenajulu.com/post/app-of-the-week-1/)
-- [Web Tool of The Week #1](https://ajulusthoughts.stephenajulu.com/post/web-tool-of-the-week-1/)
-- [My Favorite Android Apps 2021](https://ajulusthoughts.stephenajulu.com/post/my-favorite-android-apps-2021/)
+
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
----
-
-<br>
-
 <h3>💼💻 What & Where I am currently working at/on/as</h3>
+
 <p>
 <a href="https://owlsectechnologies.co.ke">OwlSec Technologies: Founder and Consultant 💼</a><br>
 <a href="https://thebistronewsletter.netlify.app">The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer ☕</a><br>
