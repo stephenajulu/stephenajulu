@@ -21,7 +21,7 @@ When I'm not designing and building things, you can find me binge watching video
 
 <!-- BLOG-POST-LIST:END -->
 
-<h3>💼💻 What & Where I am currently working at/on/as</h3>
+<h3>💼 What & Where I am currently working at/on/as</h3>
 
 <p>
 <a href="https://owlsectechnologies.co.ke">OwlSec Technologies: Founder and Consultant 💼</a><br>
