@@ -16,11 +16,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Cryptocurrencies to Invest in 2021](https://ajulusthoughts.stephenajulu.com/post/best-cryptocurrencies-to-invest-in-2021/)
 - [5 Places To Spray A Fragrance On For A More Powerful and Long Lasting Effect](https://ajulusthoughts.stephenajulu.com/post/5-places-to-spray-a-fragrance-on-for-a-more-powerful-and-long-lasting-effect/)
 - [5 Must Have Microsoft Edge Browser Extensions](https://ajulusthoughts.stephenajulu.com/post/5-must-have-microsoft-edge-browser-extensions/)
 - [App of The Week #1](https://ajulusthoughts.stephenajulu.com/post/app-of-the-week-1/)
 - [Web Tool of The Week #1](https://ajulusthoughts.stephenajulu.com/post/web-tool-of-the-week-1/)
-- [My Favorite Android Apps 2021](https://ajulusthoughts.stephenajulu.com/post/my-favorite-android-apps-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
