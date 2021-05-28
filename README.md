@@ -16,11 +16,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [On Becoming a Man With Resources](https://ajulusthoughts.stephenajulu.com/post/on-becoming-a-man-with-resources/)
-- [On Becoming a High Value Man](https://ajulusthoughts.stephenajulu.com/post/on-becoming-a-high-value-man/)
-- [Best Cryptocurrencies to Invest in 2021](https://ajulusthoughts.stephenajulu.com/post/best-cryptocurrencies-to-invest-in-2021/)
-- [5 Places To Spray A Fragrance On For A More Powerful and Long Lasting Effect](https://ajulusthoughts.stephenajulu.com/post/5-places-to-spray-a-fragrance-on-for-a-more-powerful-and-long-lasting-effect/)
-- [5 Must Have Microsoft Edge Browser Extensions](https://ajulusthoughts.stephenajulu.com/post/5-must-have-microsoft-edge-browser-extensions/)
+- [Hugo Shortcodes and Forestry CMS Snippets](https://www.youtube.com/watch?v=M-P0lVXehWM)
+- [How to Build & Deploy A Modern JAMstack Website with Stackbit Without Web Development Skills(Free)](https://www.youtube.com/watch?v=nSSksvqP3Rk)
+- [DIY Linktr.ee](https://www.youtube.com/watch?v=2Iqym2cUB6A)
+- [How to Sell Pre-made Websites](https://www.youtube.com/watch?v=Q8jqvbJpzas)
+- [Hi there. I Am Stephen Ajulu](https://www.youtube.com/watch?v=OEjUtLR1WLI)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
