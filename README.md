@@ -16,11 +16,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [On Becoming a Man With Resources](https://ajulusthoughts.stephenajulu.com/post/on-becoming-a-man-with-resources/)
-- [On Becoming a High Value Man](https://ajulusthoughts.stephenajulu.com/post/on-becoming-a-high-value-man/)
-- [Best Cryptocurrencies to Invest in 2021](https://ajulusthoughts.stephenajulu.com/post/best-cryptocurrencies-to-invest-in-2021/)
-- [5 Places To Spray A Fragrance On For A More Powerful and Long Lasting Effect](https://ajulusthoughts.stephenajulu.com/post/5-places-to-spray-a-fragrance-on-for-a-more-powerful-and-long-lasting-effect/)
-- [5 Must Have Microsoft Edge Browser Extensions](https://ajulusthoughts.stephenajulu.com/post/5-must-have-microsoft-edge-browser-extensions/)
+- [My Automatic Feed Item URL Shortener and Sender to Email](https://ajulusthoughts2-1.netlify.app/post/my-automatic-feed-item-url-shortener-and-sender-to-email/)
+- [Simple Web Share for Hugo](https://ajulusthoughts2-1.netlify.app/post/simple-web-share-for-hugo/)
+- [Share Buttons For Hugo](https://ajulusthoughts2-1.netlify.app/post/share-buttons-for-hugo/)
+- [On Becoming a Man With Resources](https://ajulusthoughts2-1.netlify.app/post/on-becoming-a-man-with-resources/)
+- [On Becoming a High Value Man](https://ajulusthoughts2-1.netlify.app/post/on-becoming-a-high-value-man/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
