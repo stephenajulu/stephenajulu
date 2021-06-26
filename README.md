@@ -16,11 +16,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Introversion Sucks, But....](https://ajulusthoughts2-1.netlify.app/post/introversion-sucks-but/)
 - [How To Add Schema JSON-LD to Your Hugo Blog/Site](https://ajulusthoughts2-1.netlify.app/post/how-to-add-schema-json-ld-to-your-hugo-blog-site/)
 - [Top 100 Most Common Passwords + Precautionary Measures](https://ajulusthoughts2-1.netlify.app/post/top-100-most-common-passwords-precautionary-measures/)
 - [10 Cybersecurity Tips That Might Save Your Life and Your Data](https://ajulusthoughts2-1.netlify.app/post/10-cybersecurity-tips-that-might-save-your-life-and-your-data/)
 - [My Automatic Feed Item URL Shortener and Sender to Email](https://ajulusthoughts2-1.netlify.app/post/my-automatic-feed-item-url-shortener-and-sender-to-email/)
-- [Simple Web Share for Hugo](https://ajulusthoughts2-1.netlify.app/post/simple-web-share-for-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
