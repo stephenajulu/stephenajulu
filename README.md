@@ -16,11 +16,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Investment Opportunities](https://ajulusthoughts.stephenajulu.com/post/investment-opportunities/)
 - [How to Become Healthy + My Tips](https://ajulusthoughts.stephenajulu.com/post/how-to-become-healthy-my-tips/)
 - [Resetting My Wardrobe](https://ajulusthoughts.stephenajulu.com/post/resetting-my-wardrobe/)
 - [Web Tool of The Week #2](https://ajulusthoughts.stephenajulu.com/post/web-tool-of-the-week-2/)
 - [App of The Week #2](https://ajulusthoughts.stephenajulu.com/post/app-of-the-week-2/)
-- [Introversion Sucks, But....](https://ajulusthoughts.stephenajulu.com/post/introversion-sucks-but/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
