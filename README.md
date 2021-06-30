@@ -47,9 +47,9 @@ Lofyd  🚀 <em>coming soon</em>
   <p>CoinBase: @stephenajulu</p>
   
   <h4>Affiliate Links</h4>
-  <a target="_blank" href="https://santaluciafragrance.com/?ref=kuzqn53jomp-">Santa Lucia Fragrance</a>
-  <a target="_blank" href="https://www.esntls.co/?ref=kuzqn53jomp-">ESNTLS Clothing</a>
-  <a target="_blank" href="https://www.jadeblack.co/?ref=kuzqn53jomp-">JadeBlack Eyewear</a>
+  <a target="_blank" href="https://santaluciafragrance.com/?ref=kuzqn53jomp-">Santa Lucia Fragrance</a><br>
+  <a target="_blank" href="https://www.esntls.co/?ref=kuzqn53jomp-">ESNTLS Clothing</a><br>
+  <a target="_blank" href="https://www.jadeblack.co/?ref=kuzqn53jomp-">JadeBlack Eyewear</a><br>
   <a target="_blank" href="https://www.amazon.com/?&_encoding=UTF8&tag=stephenajulu-20&linkCode=ur2&linkId=bd4b7207444320b149d2437e9e3b0622&camp=1789&creative=9325">Amazon</a>
   
   </div>
