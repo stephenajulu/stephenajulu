@@ -11,11 +11,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hugo Shortcodes and Forestry CMS Snippets](https://www.youtube.com/watch?v=M-P0lVXehWM)
-- [How to Build & Deploy A Modern JAMstack Website with Stackbit Without Web Development Skills(Free)](https://www.youtube.com/watch?v=nSSksvqP3Rk)
-- [DIY Linktr.ee](https://www.youtube.com/watch?v=2Iqym2cUB6A)
-- [How to Sell Pre-made Websites](https://www.youtube.com/watch?v=Q8jqvbJpzas)
-- [Hi there. I Am Stephen Ajulu](https://www.youtube.com/watch?v=OEjUtLR1WLI)
+- [Gradient Wallpaper Pack Version 2 is Out](https://ajulusthoughts.stephenajulu.com/post/gradient-wallpaper-pack-version-2-is-out/)
+- [Gradient Wallpaper Pack Version 1 is Out](https://ajulusthoughts.stephenajulu.com/post/gradient-wallpaper-pack-version-1-is-out/)
+- [Ajulu's Thoughts Tech Stack](https://ajulusthoughts.stephenajulu.com/post/ajulu-s-thoughts-tech-stack/)
+- [Key Ideas In "The Big Fat Surprise" by Nina Teicholz](https://ajulusthoughts.stephenajulu.com/post/key-ideas-in-the-big-fat-surprise-by-nina-teicholz/)
+- [Investment Opportunities](https://ajulusthoughts.stephenajulu.com/post/investment-opportunities/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
