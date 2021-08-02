@@ -11,11 +11,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Level Up: 10 Simple Steps](https://ajulusthoughts.stephenajulu.com/post/how-to-level-up-10-simple-steps/)
-- [Simple Search Engine Optimization(SEO) Guide](https://ajulusthoughts.stephenajulu.com/post/simple-search-engine-optimization-seo-guide/)
-- [25 Kenyan Shares You Should Own(NSE)](https://ajulusthoughts.stephenajulu.com/post/25-kenyan-shares-you-should-own-nse/)
-- [Gradient Wallpaper Pack Version 2 is Out](https://ajulusthoughts.stephenajulu.com/post/gradient-wallpaper-pack-version-2-is-out/)
-- [Gradient Wallpaper Pack Version 1 is Out](https://ajulusthoughts.stephenajulu.com/post/gradient-wallpaper-pack-version-1-is-out/)
+- [Hugo Shortcodes and Forestry CMS Snippets](https://www.youtube.com/watch?v=M-P0lVXehWM)
+- [How to Build & Deploy A Modern JAMstack Website with Stackbit Without Web Development Skills(Free)](https://www.youtube.com/watch?v=nSSksvqP3Rk)
+- [DIY Linktr.ee](https://www.youtube.com/watch?v=2Iqym2cUB6A)
+- [How to Sell Pre-made Websites](https://www.youtube.com/watch?v=Q8jqvbJpzas)
+- [Hi there. I Am Stephen Ajulu](https://www.youtube.com/watch?v=OEjUtLR1WLI)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
