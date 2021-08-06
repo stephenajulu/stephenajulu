@@ -11,11 +11,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Books All Men Should Read Updated](https://ajulusthoughts.stephenajulu.com/post/12-books-all-men-should-read-updated/)
+- [How To Level Up: Self Improvement For Men](https://ajulusthoughts.stephenajulu.com/post/how-to-level-up-self-improvement-for-men/)
 - [11 Books All Men Should Read](https://ajulusthoughts.stephenajulu.com/post/11-books-all-men-should-read/)
 - [On Becoming a High Value Woman](https://ajulusthoughts.stephenajulu.com/post/on-becoming-a-high-value-woman/)
 - [5 Simple Steps To Achieve Flow State and achieve Deep Work](https://ajulusthoughts.stephenajulu.com/post/5-simple-steps-to-achieve-flow-state-and-achieve-deep-work/)
-- [Solving The Worlds Relationship & Marriage Crisis](https://ajulusthoughts.stephenajulu.com/post/solving-the-worlds-relationship-marriage-crisis/)
-- [How To Level Up: 10 Simple Steps](https://ajulusthoughts.stephenajulu.com/post/how-to-level-up-10-simple-steps/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
