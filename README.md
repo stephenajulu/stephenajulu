@@ -11,8 +11,8 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Books All Men Should Read Updated](https://ajulusthoughts.stephenajulu.com/post/12-books-all-men-should-read-updated/)
 - [How To Level Up: Self Improvement For Men](https://ajulusthoughts.stephenajulu.com/post/how-to-level-up-self-improvement-for-men/)
+- [12 Books All Men Should Read Updated](https://ajulusthoughts.stephenajulu.com/post/12-books-all-men-should-read-updated/)
 - [11 Books All Men Should Read](https://ajulusthoughts.stephenajulu.com/post/11-books-all-men-should-read/)
 - [On Becoming a High Value Woman](https://ajulusthoughts.stephenajulu.com/post/on-becoming-a-high-value-woman/)
 - [5 Simple Steps To Achieve Flow State and achieve Deep Work](https://ajulusthoughts.stephenajulu.com/post/5-simple-steps-to-achieve-flow-state-and-achieve-deep-work/)
