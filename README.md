@@ -11,11 +11,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Shoes Men Should Own](https://ajulusthoughts.stephenajulu.com/post/6-shoes-men-should-own/)
 - [Why EVERY Man Should Wear a Watch](https://ajulusthoughts.stephenajulu.com/post/why-every-man-should-wear-a-watch/)
 - [Who Moved My Cheese Summary](https://ajulusthoughts.stephenajulu.com/post/who-moved-my-cheese-summary/)
 - [The Art of War(Listed)](https://ajulusthoughts.stephenajulu.com/post/the-art-of-war-listed/)
 - [The 48 Laws of Power(Listed)](https://ajulusthoughts.stephenajulu.com/post/the-48-laws-of-power-listed/)
-- [Invest In Yourself(Old Post)](https://ajulusthoughts.stephenajulu.com/post/invest-in-yourself-old-post/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
