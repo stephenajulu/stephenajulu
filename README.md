@@ -11,11 +11,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [The 48 Laws of Power(Listed)](https://ajulusthoughts.stephenajulu.com/post/the-48-laws-of-power-listed/)
 - [13 Books All Men Should Read(Updated)](https://ajulusthoughts.stephenajulu.com/post/13-books-all-men-should-read-updated/)
 - [My 5 Month Self Improvement Action Plan: August](https://ajulusthoughts.stephenajulu.com/post/my-5-month-self-improvement-action-plan-august/)
 - [How to Increase Testosterone](https://ajulusthoughts.stephenajulu.com/post/how-to-increase-testosterone/)
 - [How To Level Up: Self Improvement For Men](https://ajulusthoughts.stephenajulu.com/post/how-to-level-up-self-improvement-for-men/)
-- [11 Books All Men Should Read](https://ajulusthoughts.stephenajulu.com/post/11-books-all-men-should-read/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
