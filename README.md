@@ -11,7 +11,7 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Men Must Level Up: You Have No Choice](https://ajulusthoughts.stephenajulu.com/post/why-men-must-level-up-you-have-no-choice/)
+- [The 4 Archetypes Men Should Master](https://ajulusthoughts.stephenajulu.com/post/the-4-archetypes-men-should-master/)
 - [6 Shoes Men Should Own](https://ajulusthoughts.stephenajulu.com/post/6-shoes-men-should-own/)
 - [Why EVERY Man Should Wear a Watch](https://ajulusthoughts.stephenajulu.com/post/why-every-man-should-wear-a-watch/)
 - [Who Moved My Cheese Summary](https://ajulusthoughts.stephenajulu.com/post/who-moved-my-cheese-summary/)
