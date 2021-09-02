@@ -11,11 +11,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [High Value In Demand Skills](https://ajulusthoughts.stephenajulu.com/post/high-value-in-demand-skills/)
+- [How To Build Wealth in Your Teens and 20s](https://ajulusthoughts.stephenajulu.com/post/how-to-build-wealth-in-your-teens-and-20s/)
 - [Mini Self Improvement Framework For Everyone](https://ajulusthoughts.stephenajulu.com/post/mini-self-improvement-framework-for-everyone/)
 - [6 Key Things Men Should Improve](https://ajulusthoughts.stephenajulu.com/post/6-key-things-men-should-improve/)
 - [The 4 Archetypes Men Should Master](https://ajulusthoughts.stephenajulu.com/post/the-4-archetypes-men-should-master/)
-- [Why Men Must Level Up: You Have No Choice](https://ajulusthoughts.stephenajulu.com/post/why-men-must-level-up-you-have-no-choice/)
-- [6 Shoes Men Should Own](https://ajulusthoughts.stephenajulu.com/post/6-shoes-men-should-own/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
