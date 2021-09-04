@@ -11,11 +11,11 @@
 <h3>📕 My Latest Articles, Podcasts and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Free Tools For Creating Ebooks](https://ajulusthoughts.stephenajulu.com/post/5-free-tools-for-creating-ebooks/)
 - [Gradient Wallpaper Pack 3 is Out](https://ajulusthoughts.stephenajulu.com/post/gradient-wallpaper-pack-3-is-out/)
 - [Simple Way To Be Healthy](https://ajulusthoughts.stephenajulu.com/post/simple-way-to-be-healthy/)
-- [High Value In Demand Skills](https://ajulusthoughts.stephenajulu.com/post/high-value-in-demand-skills/)
-- [How To Build Wealth in Your Teens and 20s](https://ajulusthoughts.stephenajulu.com/post/how-to-build-wealth-in-your-teens-and-20s/)
-- [Mini Self Improvement Framework For Everyone](https://ajulusthoughts.stephenajulu.com/post/mini-self-improvement-framework-for-everyone/)
+- [High Value In-Demand Skills](https://ajulusthoughts.stephenajulu.com/post/high-value-in-demand-skills/)
+- [How To Build Wealth in Your Teens and 20s(Updated)](https://ajulusthoughts.stephenajulu.com/post/how-to-build-wealth-in-your-teens-and-20s/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
