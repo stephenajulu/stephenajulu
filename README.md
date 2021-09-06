@@ -33,11 +33,10 @@ Lofyd  🚀 <em>coming soon</em>
 
 <h3>Kindly Support Me</h3>
   <a href="https://www.buymeacoffee.com/stephenajulu">Buy Me A Coffee ☕ </a>
-  <p>Bitcoin Address: 1DmhaQPZ9Dt6ShHvypVZWFUqAiFdNpce84</p>
-  <p>Ethereum Address: 0x4859A76fA806A533636024F30BB818Fb9787F22C</p>
+  <p>Bitcoin Address: 19xe7v21gusN3FpJugQXA8rB182zBTYh9E</p>
+  <p>Ethereum Address: 0xb36fcd89ec45f0b2d857b5748216ecadcce0e6a1</p>
+  <p>Dogecoin Address: DU3R9dPgQSoZ4AtsryfJ3Tb5dUkM7j5pe6</p>
   <p>CoinBase: @stephenajulu</p>
-  <p><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="stephenajulu" data-color="#FFDD00" dataemoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script></p>
-  <p><div id="smart-button-container"><div style="text-align: center;"><div id="paypal-button-container"></div></div></div></p>
   
   <h4>Affiliate Links</h4>
   <a target="_blank" href="https://santaluciafragrance.com/?ref=kuzqn53jomp-">Santa Lucia Fragrance: 10% OFF</a><br>
@@ -46,45 +45,3 @@ Lofyd  🚀 <em>coming soon</em>
   <a target="_blank" href="https://www.amazon.com/?&_encoding=UTF8&tag=stephenajulu-20&linkCode=ur2&linkId=bd4b7207444320b149d2437e9e3b0622&camp=1789&creative=9325">Amazon</a>
   
   </div>
-  
-  <script src="https://www.paypal.com/sdk/js?client-id=AVGpuNkOeI1IIjuGtAfpztXYkFDzvep9x4LHo6kGS96QEeTwdL1ChBorldoVIsawmGCrQzs5h06CC1ZC&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
-  <script>
-    function initPayPalButton() {
-      paypal.Buttons({
-        style: {
-          shape: 'pill',
-          color: 'silver',
-          layout: 'vertical',
-          label: 'paypal',
-          
-        },
-
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"description":"Kindly Support Me by Donating via PayPal","amount":{"currency_code":"USD","value":5}}]
-          });
-        },
-
-        onApprove: function(data, actions) {
-          return actions.order.capture().then(function(orderData) {
-            
-            // Full available details
-            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-
-            // Show a success message within this page, e.g.
-            const element = document.getElementById('paypal-button-container');
-            element.innerHTML = '';
-            element.innerHTML = '<h3>Thank you for your payment!</h3>';
-
-            // Or go to another URL:  actions.redirect('thank_you.html');
-            
-          });
-        },
-
-        onError: function(err) {
-          console.log(err);
-        }
-      }).render('#paypal-button-container');
-    }
-    initPayPalButton();
-  </script>
