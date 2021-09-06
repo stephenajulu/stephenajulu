@@ -18,8 +18,8 @@
 <h3>💼 What & Where I am currently working at/on/as</h3>
 
 <p>
-<a href="https://stephenajulu.com">Stephen Ajulu's Personal Portfolio Website: Freelancer</a>  🚀 <br>
-<a href="https://uravity.netlify.app">Uravity: Director 💼</a> 🚀 <em>coming soon</em<br>
+<a href="https://stephenajulu.com">Stephen Ajulu's Personal Portfolio Website</a>: Freelancer  🚀 <br>
+<a href="https://uravity.netlify.app">Uravity</a>: Director  🚀 <em>coming soon</em<br>
 <br>PafectDate, Purfolios, The Noesis Magazine: Creator  🚀 <em>coming soon</em>
 </p>
 
