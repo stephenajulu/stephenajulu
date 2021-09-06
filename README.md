@@ -4,11 +4,11 @@
 
 <h4> <a href="https://links.stephenajulu.com">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a></h4>
 
-<a href="https://stephenajulu.com"><img src="images/rsz 300w asset_1.png" width="100"></a>
+<a href="https://stephenajulu.com"><img src="images/rsz 300w asset_1.png" width="50px"></a>
 
 <hr width="50%" style="height:5px;">
 
-<h3>📕 My Latest Articles, Podcasts and Videos</h3>
+<h3>📕 My Latest Articles, Podcast Episodes and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [5 Free Tools For Creating Ebooks](https://ajulusthoughts.stephenajulu.com/post/5-free-tools-for-creating-ebooks/)
@@ -23,19 +23,15 @@
 <p>
 <a href="https://stephenajulu.com">Stephen Ajulu's Personal Portfolio Website: Freelancer</a>  🚀 <br>
 <a href="https://uravity.netlify.app">Uravity: Director 💼</a> 🚀 <em>coming soon</em<br>
-Sepochi Co Online Store: Founder and Dev 🚀 <em>coming soon</em><br>
 PafectDate: Creator  🚀 <em>coming soon</em><br>
 Purfolios: Creator  🚀 <em>coming soon</em><br>
 The Noesis Magazine: Founder and Content Creator   🚀 <em>coming soon</em><br>
-BioEmergency & Biomme: Founder and Developer  🚀 <em>coming soon</em><br>
-Lofyd  🚀 <em>coming soon</em>
 </p>
 
 <h3>Kindly Support Me</h3>
   <a href="https://www.buymeacoffee.com/stephenajulu">Buy Me A Coffee ☕ </a>
   <p>Bitcoin Address: 19xe7v21gusN3FpJugQXA8rB182zBTYh9E</p>
   <p>Ethereum Address: 0xb36fcd89ec45f0b2d857b5748216ecadcce0e6a1</p>
-  <p>Dogecoin Address: DU3R9dPgQSoZ4AtsryfJ3Tb5dUkM7j5pe6</p>
   <p>CoinBase: @stephenajulu</p>
   
   <h4>Affiliate Links</h4>
