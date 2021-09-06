@@ -4,8 +4,6 @@
 
 <h4> <a href="https://links.stephenajulu.com">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajulu.substack.com">Newsletter</a> • <a href="https://stephenajulu.gumroad.com">Store</a></h4>
 
-<hr width="50%" style="height:5px;">
-
 <h3>📕 My Latest Articles, Podcast Episodes and Videos</h3>
 
 <!-- BLOG-POST-LIST:START -->
