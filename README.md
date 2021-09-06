@@ -1,8 +1,8 @@
   <!-- Hi there! Feel free to make this your own but don't use my data -->
 <div align="center">  
-<h3>Hi there! 👋🤓<br>My name is Stephen Ajulu<br>I'm a Web Developer, Designer(Graphic, Web) & Creator(Content, Products)</h3>
+<h3>Hi there! 👋🤓<br>My name is Stephen Ajulu<br>I'm a Web Developer, Designer(Graphic, Web)<br> & Creator(Content, Products)</h3>
 
-<h4> <a href="https://links.stephenajulu.com">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a></h4>
+<h4> <a href="https://links.stephenajulu.com">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajulu.substack.com">Newsletter</a> • <a href="https://stephenajulu.gumroad.com">Store</a></h4>
 
 <a href="https://stephenajulu.com"><img src="images/rsz 300w asset_1.png" width="50px"></a>
 
@@ -23,21 +23,12 @@
 <p>
 <a href="https://stephenajulu.com">Stephen Ajulu's Personal Portfolio Website: Freelancer</a>  🚀 <br>
 <a href="https://uravity.netlify.app">Uravity: Director 💼</a> 🚀 <em>coming soon</em<br>
-PafectDate: Creator  🚀 <em>coming soon</em><br>
-Purfolios: Creator  🚀 <em>coming soon</em><br>
-The Noesis Magazine: Founder and Content Creator   🚀 <em>coming soon</em><br>
+PafectDate, Purfolios, The Noesis Magazine: Creator  🚀 <em>coming soon</em><br>
 </p>
 
-<h3>Kindly Support Me</h3>
+<h3>🤑 Kindly Support Me</h3>
   <a href="https://www.buymeacoffee.com/stephenajulu">Buy Me A Coffee ☕ </a>
   <p>Bitcoin Address: 19xe7v21gusN3FpJugQXA8rB182zBTYh9E</p>
   <p>Ethereum Address: 0xb36fcd89ec45f0b2d857b5748216ecadcce0e6a1</p>
-  <p>CoinBase: @stephenajulu</p>
-  
-  <h4>Affiliate Links</h4>
-  <a target="_blank" href="https://santaluciafragrance.com/?ref=kuzqn53jomp-">Santa Lucia Fragrance: 10% OFF</a><br>
-  <a target="_blank" href="https://www.esntls.co/?ref=kuzqn53jomp-">ESNTLS Clothing: 10% OFF</a><br>
-  <a target="_blank" href="https://www.jadeblack.co/?ref=kuzqn53jomp-">JadeBlack Eyewear: 10% OFF</a><br>
-  <a target="_blank" href="https://www.amazon.com/?&_encoding=UTF8&tag=stephenajulu-20&linkCode=ur2&linkId=bd4b7207444320b149d2437e9e3b0622&camp=1789&creative=9325">Amazon</a>
   
   </div>
