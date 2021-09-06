@@ -20,7 +20,7 @@
 <p>
 <a href="https://stephenajulu.com">Stephen Ajulu's Personal Portfolio Website: Freelancer</a>  🚀 <br>
 <a href="https://uravity.netlify.app">Uravity: Director 💼</a> 🚀 <em>coming soon</em<br>
-PafectDate, Purfolios, The Noesis Magazine: Creator  🚀 <em>coming soon</em><br>
+<br>PafectDate, Purfolios, The Noesis Magazine: Creator  🚀 <em>coming soon</em>
 </p>
 
 <h3>🤑 Kindly Support Me</h3>
