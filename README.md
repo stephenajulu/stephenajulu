@@ -23,6 +23,6 @@
 </p>
 
 <h3>🤑 Kindly Support Me</h3>
-  <a href="https://www.buymeacoffee.com/stephenajulu">Buy Me A Coffee ☕ </a>
   <p>Bitcoin Address: 19xe7v21gusN3FpJugQXA8rB182zBTYh9E</p>
   <p>Ethereum Address: 0xb36fcd89ec45f0b2d857b5748216ecadcce0e6a1</p>
+  <p><a href="https://www.paypal.com/donate/?hosted_button_id=SLNMRAJ59LRC8">PayPal Donate</a></p>
