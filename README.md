@@ -1,6 +1,6 @@
   <!-- Hi there! Feel free to make this your own but don't use my data --> 
   <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/stephenajulu/stephenajulu/master/images/Github%20Stephen%20Ajulu%20(2).png" align="right" width="260px"></a>
-<h3>Hi there! 👋🤓<br>I'm Stephen Ajulu<br>a Web Developer, Designer(Graphic, Web)<br> & Creator(Content, Products)</h3>
+<h3>Hi there! 👋🤓<br>I'm Stephen Ajulu<br>a Web Developer, Designer & Creator</h3>
 
 <h4> <a href="https://links.stephenajulu.com">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajulu.substack.com">Newsletter</a> • <a href="https://stephenajulu.gumroad.com">Store</a></h4>
 
@@ -22,7 +22,5 @@
 <br>PafectDate, Purfolios, The Noesis Magazine: Creator<em>(coming soon)</em>
 </p>
 
-<h3>🤑 Kindly Support Me</h3>
-  <p>Bitcoin Address: 19xe7v21gusN3FpJugQXA8rB182zBTYh9E</p>
-  <p>Ethereum Address: 0xb36fcd89ec45f0b2d857b5748216ecadcce0e6a1</p>
+<h3>💲 Kindly Support Me</h3>
   <p><a href="https://www.paypal.com/donate/?hosted_button_id=SLNMRAJ59LRC8">PayPal Donate</a></p>
