@@ -10,7 +10,6 @@
 - [5 Free Tools For Creating Ebooks](https://ajulusthoughts.stephenajulu.com/post/5-free-tools-for-creating-ebooks/)
 - [Gradient Wallpaper Pack 3 is Out](https://ajulusthoughts.stephenajulu.com/post/gradient-wallpaper-pack-3-is-out/)
 - [Simple Way To Be Healthy](https://ajulusthoughts.stephenajulu.com/post/simple-way-to-be-healthy/)
-- [High Value In-Demand Skills](https://ajulusthoughts.stephenajulu.com/post/high-value-in-demand-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>💼 What & Where I am currently working at/on/as</h3>
