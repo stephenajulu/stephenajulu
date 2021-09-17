@@ -1,5 +1,5 @@
   <!-- Hi there! Feel free to make this your own but don't use my data --> 
-  <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/stephenajulu/stephenajulu/master/images/Github%20Stephen%20Ajulu%20(2).png" align="right" width="260px"></a>
+  <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/stephenajulu/stephenajulu/master/images/Github%20Stephen%20Ajulu%20(2).png" align="right" width="200px"></a>
 <h3>Hi there! 👋🤓<br>I'm Stephen Ajulu<br>a Web Developer, Designer & Creator</h3>
 
 <h4> <a href="https://links.stephenajulu.com">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajulu.substack.com">Newsletter</a> • <a href="https://stephenajulu.gumroad.com">Store</a></h4>
