@@ -4,7 +4,7 @@
 
 <h4> <a href="https://links.stephenajulu.com">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajulu.substack.com">Newsletter</a> • <a href="https://stephenajulu.gumroad.com">Store</a> • <a href="https://www.paypal.com/donate/?hosted_button_id=SLNMRAJ59LRC8">Donate</a></h4>
 
-<h3>📕 My Latest Articles, Podcast Episodes and Videos</h3>
+<h4>📕 My Latest Articles, Podcast Episodes and Videos</h4>
 
 <!-- BLOG-POST-LIST:START -->
 - [5 Free Tools For Solopreneurs/Entrepreneurs](https://ajulusthoughts.stephenajulu.com/post/5-free-tools-for-solopreneurs-entrepreneurs/)
@@ -12,7 +12,7 @@
 - [Gradient Wallpaper Pack 3 is Out](https://ajulusthoughts.stephenajulu.com/post/gradient-wallpaper-pack-3-is-out/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3>💼 What & Where I am currently working at/on/as</h3>
+<h4>💼 What & Where I am currently working at/on/as</h4>
 
 <p>
 <a href="https://stephenajulu.com">Online:</a> Freelancer<br>
