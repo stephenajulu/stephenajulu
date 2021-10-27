@@ -15,7 +15,7 @@
 
 <p>
 <a href="https://stephenajulu.com">Online:</a> Freelancer<br>
-<a href="https://ajulusthoughts.stephenajulu.com">My Blog:</a> Writer<br>
+<a href="https://stephenajulu.com/blog">My Blog:</a> Writer<br>
 <a href="https://uravity.netlify.app">Uravity:</a> Director<em>(coming soon)</em<br>
 <br>Purfolios, The Noesis Magazine, Biomme, Bioemm: Creator<em>(coming soon)</em>
 </p>
