@@ -6,9 +6,9 @@
 <h4>📕 My Latest Articles, Podcast Episodes and Videos</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Free Tools For Solopreneurs/Entrepreneurs](https://ajulusthoughts.stephenajulu.com/post/5-free-tools-for-solopreneurs-entrepreneurs/)
-- [5 Free Tools For Creating Ebooks](https://ajulusthoughts.stephenajulu.com/post/5-free-tools-for-creating-ebooks/)
-- [Gradient Wallpaper Pack 3 is Out](https://ajulusthoughts.stephenajulu.com/post/gradient-wallpaper-pack-3-is-out/)
+- [5 Free Tools For Solopreneurs/Entrepreneurs](https://stephenajulu.com/blog/5-free-tools-for-solopreneurs-entrepreneurs/)
+- [5 Free Tools For Creating Ebooks](https://stephenajulu.com/blog/5-free-tools-for-creating-ebooks/)
+- [Gradient Wallpaper Pack 3 is Out](https://stephenajulu.com/blog/gradient-wallpaper-pack-3-is-out/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 What & Where I am currently working at/on/as</h4>
