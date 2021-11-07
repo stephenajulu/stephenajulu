@@ -14,5 +14,5 @@
 <h4>💼 What & Where I am currently working at/on/as</h4>
 
 <p>
-<a href="https://stephenajulu.com">Stephen Ajulu:</a> Freelance Web Developer, Designer and Creator + Blogger<br>
+<a href="https://stephenajulu.com">Stephen Ajulu:</a> Freelancer + Blogger<br>
 </p>
