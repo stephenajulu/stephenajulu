@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Future Industries and Sectors](https://stephenajulu.com/blog/future-industries-and-sectors/)
 - [My Favorite Gnome Extensions](https://stephenajulu.com/blog/my-favorite-gnome-extensions/)
 - [5 Free Tools For Solopreneurs/Entrepreneurs](https://stephenajulu.com/blog/5-free-tools-for-solopreneurs-entrepreneurs/)
-- [5 Free Tools For Creating Ebooks](https://stephenajulu.com/blog/5-free-tools-for-creating-ebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
