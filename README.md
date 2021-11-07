@@ -11,6 +11,6 @@
 - [5 Free Tools For Creating Ebooks](https://stephenajulu.com/blog/5-free-tools-for-creating-ebooks/)
 <!-- BLOG-POST-LIST:END -->
 
-<h4>💼 My Now</h4>
+<h4>💼 My Current</h4>
 
 - [Stephen Ajulu: Freelancer + Blogger](https://stephenajulu.com)
