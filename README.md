@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [My Investment Portfolio](https://stephenajulu.com/blog/my-investment-portfolio/)
 - [6 Metaverse Tokens You Could Invest In](https://stephenajulu.com/blog/6-metaverse-tokens-you-could-invest-in/)
 - [Future Industries and Sectors](https://stephenajulu.com/blog/future-industries-and-sectors/)
-- [My Favorite Gnome Extensions](https://stephenajulu.com/blog/my-favorite-gnome-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
