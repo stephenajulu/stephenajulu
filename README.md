@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [The New 1% Elite](https://stephenajulu.com/blog/the-new-1-elite/)
 - [Cryptocurrencies You Should Watch 2021](https://stephenajulu.com/blog/cryptocurrencies-you-should-watch-2021/)
 - [My Investment Strategy](https://stephenajulu.com/blog/my-investment-strategy/)
-- [My Investment Portfolio](https://stephenajulu.com/blog/my-investment-portfolio/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
