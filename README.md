@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Compounding Habits](https://stephenajulu.com/blog/the-new-1-have-these-10-habits/)
 - [The 3 Cryptocurrencies You Should Definitely Invest In and More](https://stephenajulu.com/blog/the-3-cryptocurrencies-you-should-definitely-invest-in/)
 - [The New 1% Elite](https://stephenajulu.com/blog/the-new-1-elite/)
-- [Cryptocurrencies You Should Watch 2021](https://stephenajulu.com/blog/cryptocurrencies-you-should-watch-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
