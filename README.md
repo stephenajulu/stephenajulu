@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Things Every Man In His 20s Should Do](https://stephenajulu.com/blog/5-things-every-man-in-his-20s-should-do/)
 - [6 Compounding Habits](https://stephenajulu.com/blog/the-new-1-have-these-10-habits/)
 - [The 3 Cryptocurrencies You Should Definitely Invest In and More](https://stephenajulu.com/blog/the-3-cryptocurrencies-you-should-definitely-invest-in/)
-- [The New 1% Elite](https://stephenajulu.com/blog/the-new-1-elite/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
