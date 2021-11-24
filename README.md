@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Young Men, Focus On These Key Things](https://stephenajulu.com/blog/young-men-focus-on-these-key-things/)
 - [A little heart to heart](https://stephenajulu.com/blog/a-little-heart-to-heart/)
 - [5 Things Every Man In His 20s Should Do](https://stephenajulu.com/blog/5-things-every-man-in-his-20s-should-do/)
-- [6 Compounding Habits](https://stephenajulu.com/blog/the-new-1-have-these-10-habits/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
