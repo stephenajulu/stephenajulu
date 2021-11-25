@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Web 3.0 Explained Part 1](https://stephenajulu.com/blog/web-3.0-explained-part-1/)
 - [Young Men, Focus On These Key Things](https://stephenajulu.com/blog/young-men-focus-on-these-key-things/)
 - [A little heart to heart](https://stephenajulu.com/blog/a-little-heart-to-heart/)
-- [5 Things Every Man In His 20s Should Do](https://stephenajulu.com/blog/5-things-every-man-in-his-20s-should-do/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
