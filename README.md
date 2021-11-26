@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [My Morning Routine](https://stephenajulu.com/blog/my-morning-routine/)
 - [Web 3.0 Explained Part 1](https://stephenajulu.com/blog/web-3.0-explained-part-1/)
 - [Young Men, Focus On These Key Things](https://stephenajulu.com/blog/young-men-focus-on-these-key-things/)
-- [A little heart to heart](https://stephenajulu.com/blog/a-little-heart-to-heart/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
