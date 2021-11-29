@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [More Applications of Decentralized Finance&lpar;DeFi&rpar;](https://stephenajulu.com/blog/more-applications-of-decentralized-finance-defi/)
 - [Applications and Use Cases of Decentralized Finance&lpar;DeFi&rpar;](https://stephenajulu.com/blog/applications-and-use-cases-of-decentralized-finance-defi/)
 - [Decentralized Finance Defined](https://stephenajulu.com/blog/decentralized-finance-defined/)
-- [My Morning Routine](https://stephenajulu.com/blog/my-morning-routine/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
