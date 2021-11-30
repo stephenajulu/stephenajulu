@@ -6,9 +6,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [What are NFTs? Non Fungible Tokens Explained](https://stephenajulu.com/blog/what-are-nfts-non-fungible-tokens-explained/)
 - [How To Buy Your First Cryptocurrency](https://stephenajulu.com/blog/how-to-buy-your-first-cryptocurrency/)
 - [More Applications of Decentralized Finance&lpar;DeFi&rpar;](https://stephenajulu.com/blog/more-applications-of-decentralized-finance-defi/)
-- [Applications and Use Cases of Decentralized Finance&lpar;DeFi&rpar;](https://stephenajulu.com/blog/applications-and-use-cases-of-decentralized-finance-defi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
