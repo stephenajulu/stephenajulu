@@ -7,9 +7,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Cryptocurrency Exchanges](https://stephenajulu.com/blog/top-cryptocurrency-exchanges/)
+- [Tanzania is Planning To Launch Their Own Central Bank Digital Currency&lpar;CBDC&rpar;](https://stephenajulu.com/blog/tanzania-is-planning-to-launch-their-own-central-bank-digital-currency-cbdc/)
 - [What are NFTs? Non Fungible Tokens Explained](https://stephenajulu.com/blog/what-are-nfts-non-fungible-tokens-explained/)
-- [How To Buy Your First Cryptocurrency](https://stephenajulu.com/blog/how-to-buy-your-first-cryptocurrency/)
-- [More Applications of Decentralized Finance&lpar;DeFi&rpar;](https://stephenajulu.com/blog/more-applications-of-decentralized-finance-defi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
