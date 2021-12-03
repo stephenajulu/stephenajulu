@@ -7,9 +7,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeFi vs Traditional Finance](https://stephenajulu.com/blog/defi-vs-traditional-finance/)
 - [Top 6 Cryptocurrency Gaming Tokens/Coins To Watch](https://stephenajulu.com/blog/top-6-cryptocurrency-gaming-tokens-coins-to-watch/)
 - [Top Cryptocurrency Exchanges](https://stephenajulu.com/blog/top-cryptocurrency-exchanges/)
-- [Tanzania is Planning To Launch Their Own Central Bank Digital Currency&lpar;CBDC&rpar;](https://stephenajulu.com/blog/tanzania-is-planning-to-launch-their-own-central-bank-digital-currency-cbdc/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
