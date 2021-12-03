@@ -7,9 +7,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [What are DAOs? Decentralized Autonomous Organizations Explained](https://stephenajulu.com/blog/what-are-daos-decentralized-autonomous-organizations-explained/)
 - [How Does Decentralized Finance Work?](https://stephenajulu.com/blog/how-does-decentralized-finance-work/)
 - [Decentralized&lpar;DeFi&rpar; vs Traditional Finance](https://stephenajulu.com/blog/defi-vs-traditional-finance/)
-- [Top 6 Cryptocurrency Gaming Tokens/Coins To Watch](https://stephenajulu.com/blog/top-6-cryptocurrency-gaming-tokens-coins-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
