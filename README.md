@@ -7,7 +7,7 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Cryptocurrencies/Blockchains With Massive Potential](https://stephenajulu.com/blog/6-cryptocurrencies-blockchains-with-massive-potential/)
+- [6 Blockchains With Massive Potential](https://stephenajulu.com/blog/6-cryptocurrencies-blockchains-with-massive-potential/)
 - [What are DAOs? Decentralized Autonomous Organizations Explained](https://stephenajulu.com/blog/what-are-daos-decentralized-autonomous-organizations-explained/)
 - [How Does Decentralized Finance Work?](https://stephenajulu.com/blog/how-does-decentralized-finance-work/)
 <!-- BLOG-POST-LIST:END -->
