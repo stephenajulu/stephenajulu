@@ -7,9 +7,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Blockchain? How Does It Work? Blockchain Explained](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/)
+- [Invest In Web 3.0 By Buying These 5 Cryptocurrencies Now](https://stephenajulu.com/blog/invest-in-web-3.0-by-buying-these-5-cryptocurrencies-now/)
 - [6 Blockchains With Massive Potential](https://stephenajulu.com/blog/6-cryptocurrencies-blockchains-with-massive-potential/)
-- [What are DAOs? Decentralized Autonomous Organizations Explained](https://stephenajulu.com/blog/what-are-daos-decentralized-autonomous-organizations-explained/)
-- [How Does Decentralized Finance Work?](https://stephenajulu.com/blog/how-does-decentralized-finance-work/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
