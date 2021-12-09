@@ -7,9 +7,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Proof of Stake? Proof Of Stake Explained](https://stephenajulu.com/blog/what-is-proof-of-stake-proof-of-stake-explained/)
-- [What are Smart Contracts? How Do They Work? Smart Contracts Explained](https://stephenajulu.com/blog/what-are-smart-contracts-smart-contracts-explained/)
-- [What is Blockchain? How Does It Work? Blockchain Explained](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/)
+- [Applications and Use Cases of Blockchain Technology](https://stephenajulu.com/blog/applications-and-use-cases-of-blockchain-technology/)
+- [What are CBDCs? Central Bank Digital Currency Defined](https://stephenajulu.com/blog/what-are-cbdcs-why-countries-are-exploring-and-creating-their-own-central-bank-digital-currency/)
+- [What is Proof of Work?](https://stephenajulu.com/blog/what-is-proof-of-work/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
