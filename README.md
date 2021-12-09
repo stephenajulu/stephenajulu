@@ -7,9 +7,9 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Applications and Use Cases of Blockchain Technology](https://stephenajulu.com/blog/applications-and-use-cases-of-blockchain-technology/)
-- [What are CBDCs? Central Bank Digital Currency Defined](https://stephenajulu.com/blog/what-are-cbdcs-why-countries-are-exploring-and-creating-their-own-central-bank-digital-currency/)
-- [What is Proof of Work?](https://stephenajulu.com/blog/what-is-proof-of-work/)
+- [Top GameFi Games Right Now](https://stephenajulu.com/blog/top-gamefi-games-right-now/)
+- [Gamers Assemble: Play Games To Earn Crypto! GameFi Explained](https://stephenajulu.com/blog/gamers-assemble-play-games-to-earn-free-crypto/)
+- [Don&#39;t Just HODL Crypto Make Money While You Sleep With It](https://stephenajulu.com/blog/don-t-just-hodl-crypto-make-money-while-you-sleep-with-it/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 My Current</h4>
