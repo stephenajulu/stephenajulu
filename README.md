@@ -7,7 +7,7 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Creating A Masculine Character](https://stephenajulu.com/blog/the-importance-of-creating-a-masculine-character/)
+- [The Importance of Building Your Masculinity](https://stephenajulu.com/blog/the-importance-of-creating-a-masculine-character/)
 - [What is a Stable Coin?](https://stephenajulu.com/blog/what-are-stable-coins/)
 - [Top GameFi Games Right Now](https://stephenajulu.com/blog/top-gamefi-games-right-now/)
 <!-- BLOG-POST-LIST:END -->
