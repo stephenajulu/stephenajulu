@@ -7,6 +7,8 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bistro Brand Identity and Logo](https://stephenajulu.com/store/the-bistro-brand-identity-and-logo/)
+- [OwlFire Digital Brand Identity and Logos](https://stephenajulu.com/store/owlfire-digital-brand-identity-and-logos/)
 - [The Importance of Building Your Masculinity](https://stephenajulu.com/blog/the-importance-of-creating-a-masculine-character/)
 - [What is a Stable Coin?](https://stephenajulu.com/blog/what-are-stable-coins/)
 - [Top GameFi Games Right Now](https://stephenajulu.com/blog/top-gamefi-games-right-now/)
