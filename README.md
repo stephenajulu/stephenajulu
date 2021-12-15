@@ -12,5 +12,7 @@
 - [The Importance of Building Your Masculinity](https://stephenajulu.com/blog/the-importance-of-creating-a-masculine-character/)
 - [What is a Stable Coin?](https://stephenajulu.com/blog/what-are-stable-coins/)
 - [Top GameFi Games Right Now](https://stephenajulu.com/blog/top-gamefi-games-right-now/)
+- [Gamers Assemble: Play Games To Earn Crypto! GameFi Explained](https://stephenajulu.com/blog/gamers-assemble-play-games-to-earn-free-crypto/)
+- [Don&#39;t Just HODL Crypto Make Money While You Sleep With It](https://stephenajulu.com/blog/don-t-just-hodl-crypto-make-money-while-you-sleep-with-it/)
 <!-- BLOG-POST-LIST:END -->
 
