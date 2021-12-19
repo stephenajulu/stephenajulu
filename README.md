@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Increase Your Testosterone](https://stephenajulu.com/blog/how-to-increase-your-testosterone/)
 - [Ladies, Here&#39;s What Men Want](https://stephenajulu.com/blog/ladies-here-s-what-men-want/)
 - [Must Have Apps For Linux Users](https://stephenajulu.com/blog/must-have-apps-for-linux-users/)
 - [Cryptocurrency, Blockchain, Smart Contract, NFT, Web 3, DeFi and GameFi 101: Definition](https://stephenajulu.com/blog/cryptocurrency-blockchain-smart-contract-nft-web-3-defi-and-gamefi-101-definition/)
 - [The Bistro Brand Identity and Logo](https://stephenajulu.com/store/the-bistro-brand-identity-and-logo/)
 - [OwlFire Digital Brand Identity and Logos](https://stephenajulu.com/store/owlfire-digital-brand-identity-and-logos/)
 - [The Importance of Building Your Masculinity](https://stephenajulu.com/blog/the-importance-of-creating-a-masculine-character/)
-- [What is a Stable Coin?](https://stephenajulu.com/blog/what-are-stable-coins/)
 <!-- BLOG-POST-LIST:END -->
 
