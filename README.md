@@ -9,10 +9,10 @@
 <!-- BLOG-POST-LIST:START -->
 - [How To Add Google Analytics to Your Website and Measure Traffic](https://stephenajulu.com/blog/how-to-add-google-analytics-to-your-website-and-measure-traffic/)
 - [Cryptocurrencies I&#39;m Buying in 2022](https://stephenajulu.com/blog/cryptocurrencies-i-m-buying-2022/)
+- [20 Things Men Must Do In 2022](https://stephenajulu.com/blog/20-things-men-must-do-in-2022/)
 - [How To Buy Your First NFT Web 3.0 Domain: Ethereum Naming Service](https://stephenajulu.com/blog/the-second-way-to-buy-your-first-nft-web-3.0-domain-ethereum-naming-service/)
 - [How To Buy Your First NFT Web 3.0 Domain: Unstoppable Domains](https://stephenajulu.com/blog/how-to-buy-your-first-nft-web-3.0-domain/)
-- [Must Have Apps For Linux Users](https://stephenajulu.com/blog/must-have-apps-for-linux-users/)
-- [Cryptocurrency, Blockchain, Smart Contract, NFT, Web 3, DeFi and GameFi 101: Definition](https://stephenajulu.com/blog/cryptocurrency-blockchain-smart-contract-nft-web-3-defi-and-gamefi-101-definition/)
-- [The Bistro Brand Identity and Logo](https://stephenajulu.com/store/the-bistro-brand-identity-and-logo/)
+- [How To Increase Your Testosterone](https://stephenajulu.com/blog/how-to-increase-your-testosterone/)
+- [Ladies, Here&#39;s What Men Want and It&#39;s Surprisingly Simple](https://stephenajulu.com/blog/ladies-here-s-what-men-want/)
 <!-- BLOG-POST-LIST:END -->
 
