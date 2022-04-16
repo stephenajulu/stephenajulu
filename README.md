@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [My Bodyweight Workout Regime](https://stephenajulu.com/blog/my-bodyweight-workout-regime/)
+- [The Key to Healthier and Smoother Skin](https://stephenajulu.com/blog/the-key-to-healthier-and-smoother-skin/)
+- [Beneficial Yet Controversial Health Tips for The Modern Human Being](https://stephenajulu.com/blog/beneficial-yet-controversial-health-tips-for-the-modern-human-being/)
 - [Benefits of A Cold Shower/Bath](https://stephenajulu.com/blog/benefits-of-a-cold-shower-bath/)
 - [Green Flags For Men Interested In A Keeper](https://stephenajulu.com/blog/female-green-flags-for-men-interested-in-a-keeper/)
+- [Men, Here Are 20 Characteristics Of The Women to Avoid](https://stephenajulu.com/blog/20-red-flags-for-men/)
 - [How To Add Google Analytics to Your Website and Measure Traffic](https://stephenajulu.com/blog/how-to-add-google-analytics-to-your-website-and-measure-traffic/)
-- [Cryptocurrencies I&#39;m Buying in 2022](https://stephenajulu.com/blog/cryptocurrencies-i-m-buying-2022/)
-- [20 Things Men Must Do In 2022](https://stephenajulu.com/blog/20-things-men-must-do-in-2022/)
-- [How To Buy Your First NFT Web 3.0 Domain: Ethereum Naming Service](https://stephenajulu.com/blog/the-second-way-to-buy-your-first-nft-web-3.0-domain-ethereum-naming-service/)
-- [How To Buy Your First NFT Web 3.0 Domain: Unstoppable Domains](https://stephenajulu.com/blog/how-to-buy-your-first-nft-web-3.0-domain/)
 <!-- BLOG-POST-LIST:END -->
 
