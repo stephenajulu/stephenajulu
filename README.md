@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NFTs: The Whats, Whys and Hows](https://stephenajulu.com/blog/nfts-the-whats-whys-and-hows/)
 - [20 Things To Do In Your 20s](https://stephenajulu.com/blog/20-things-to-do-in-your-20s/)
 - [How To Improve Your Life](https://stephenajulu.com/blog/how-to-improve-your-life/)
 - [My Bodyweight Workout Regime](https://stephenajulu.com/blog/my-bodyweight-workout-regime/)
 - [The Key to Healthier and Smoother Skin](https://stephenajulu.com/blog/the-key-to-healthier-and-smoother-skin/)
 - [Beneficial Yet Controversial Health Tips for The Modern Human Being](https://stephenajulu.com/blog/beneficial-yet-controversial-health-tips-for-the-modern-human-being/)
 - [Benefits of A Cold Shower/Bath](https://stephenajulu.com/blog/benefits-of-a-cold-shower-bath/)
-- [Green Flags For Men Interested In A Keeper](https://stephenajulu.com/blog/female-green-flags-for-men-interested-in-a-keeper/)
 <!-- BLOG-POST-LIST:END -->
 
