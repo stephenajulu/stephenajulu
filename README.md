@@ -7,7 +7,7 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [NFTs: The Whats, Whys and Hows](https://stephenajulu.com/blog/nfts-the-whats-whys-and-hows/)
+- [NFTs: The What, Why and How](https://stephenajulu.com/blog/nfts-the-whats-whys-and-hows/)
 - [20 Things To Do In Your 20s](https://stephenajulu.com/blog/20-things-to-do-in-your-20s/)
 - [How To Improve Your Life](https://stephenajulu.com/blog/how-to-improve-your-life/)
 - [My Bodyweight Workout Regime](https://stephenajulu.com/blog/my-bodyweight-workout-regime/)
