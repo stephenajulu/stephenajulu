@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Coins You Should Be Buying During This Dip and HODL Long Term](https://stephenajulu.com/blog/coins-you-should-be-buying-during-this-dip-and-hodl-long-term/)
 - [Health Tips That Will Reverse Hypertension, High Blood Sugar and Other Illnesses](https://stephenajulu.com/blog/health-tips-that-will-reverse-hypertension-high-blood-sugar-and-other-illnesses/)
 - [The Best Oils and Fats For Cooking](https://stephenajulu.com/blog/the-best-oils-and-fats-for-cooking/)
 - [10 Most Important Minerals and Where To Get Them &lpar;especially for men&rpar;](https://stephenajulu.com/blog/10-most-important-minerals-and-where-to-get-them-especially-for-men/)
 - [NFTs: The What, Why and How](https://stephenajulu.com/blog/nfts-the-whats-whys-and-hows/)
 - [20 Things To Do In Your 20s](https://stephenajulu.com/blog/20-things-to-do-in-your-20s/)
 - [How To Improve Your Life](https://stephenajulu.com/blog/how-to-improve-your-life/)
-- [My Bodyweight Workout Regime](https://stephenajulu.com/blog/my-bodyweight-workout-regime/)
 <!-- BLOG-POST-LIST:END -->
 
