@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Cryptocurrency Wallets 2022](https://stephenajulu.com/blog/best-cryptocurrency-wallets-2022/)
 - [Host Your Website For Free, Make It Web3 Compliant and Earn Money From It](https://stephenajulu.com/blog/host-your-website-for-free-make-it-web3-compliant-and-earn-money-from-it/)
 - [Coins Likely To 100x In The Next 2 Years](https://stephenajulu.com/blog/coins-likely-to-100x-in-the-next-2-years/)
 - [Why I Advocate For Saturated Fats Over Vegetable Oils](https://stephenajulu.com/blog/why-i-advocate-for-saturated-fats-over-vegetable-oils/)
 - [Coins You Should Be Buying During This Dip and HODL Long Term](https://stephenajulu.com/blog/coins-you-should-be-buying-during-this-dip-and-hodl-long-term/)
 - [Health Tips That Will Reverse Hypertension, High Blood Sugar and Other Illnesses](https://stephenajulu.com/blog/health-tips-that-will-reverse-hypertension-high-blood-sugar-and-other-illnesses/)
 - [Antimicrobial Formula&lpar;Natural Antibiotic&rpar;](https://stephenajulu.com/blog/antimicrobial-formula/)
-- [The Best Oils and Fats For Cooking](https://stephenajulu.com/blog/the-best-oils-and-fats-for-cooking/)
 <!-- BLOG-POST-LIST:END -->
 
