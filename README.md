@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Endocrine Disruptors: What They Are &amp; How To Avoid Them](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
 - [Phone Buying Tips](https://stephenajulu.com/blog/phone-buying-tips/)
 - [Top Tech Gadgets Under ksh. 5,000 &lpar;Kenya Version&rpar;](https://stephenajulu.com/blog/top-tech-under-ksh.5-000-kenya-version/)
 - [How To Buy NFTs](https://stephenajulu.com/blog/how-to-buy-nfts/)
 - [Here&#39;s Why Salt is Actually Good For You: Benefits and Recommended Daily Consumption](https://stephenajulu.com/blog/here-s-why-salt-is-actually-good-for-you-benefits-and-recommended-daily-consumption/)
 - [Best Cryptocurrency Wallets 2022](https://stephenajulu.com/blog/best-cryptocurrency-wallets-2022/)
 - [Host Your Website For Free, Make It Web3 Compliant and Earn Money From It](https://stephenajulu.com/blog/host-your-website-for-free-make-it-web3-compliant-and-earn-money-from-it/)
-- [Coins Likely To 100x In The Next 2 Years](https://stephenajulu.com/blog/coins-likely-to-100x-in-the-next-2-years/)
 <!-- BLOG-POST-LIST:END -->
 
