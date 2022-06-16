@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Free Tools For Creating Ebooks&lpar;Updated&rpar;](https://stephenajulu.com/blog/5-free-tools-for-creating-ebooks/)
 - [5 Free Tools For Solopreneurs/Entrepreneurs&lpar;Updated&rpar;](https://stephenajulu.com/blog/5-free-tools-for-solopreneurs-entrepreneurs/)
 - [Endocrine Disruptors: What They Are &amp; How To Avoid Them](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
+- [Why I Advocate For Saturated Fats Over Vegetable Oils&lpar;Updated&rpar;](https://stephenajulu.com/blog/why-i-advocate-for-saturated-fats-over-vegetable-oils/)
 - [Phone Buying Tips](https://stephenajulu.com/blog/phone-buying-tips/)
 - [Top Tech Gadgets Under ksh. 5,000 &lpar;Kenya Version&rpar;](https://stephenajulu.com/blog/top-tech-under-ksh.5-000-kenya-version/)
 - [How To Buy NFTs](https://stephenajulu.com/blog/how-to-buy-nfts/)
-- [Here&#39;s Why Salt is Actually Good For You: Benefits and Recommended Daily Consumption](https://stephenajulu.com/blog/here-s-why-salt-is-actually-good-for-you-benefits-and-recommended-daily-consumption/)
-- [Best Cryptocurrency Wallets 2022](https://stephenajulu.com/blog/best-cryptocurrency-wallets-2022/)
 <!-- BLOG-POST-LIST:END -->
 
