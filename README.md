@@ -7,8 +7,8 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best Investments To Own Before A Recession &lpar;UPDATED&rpar;](https://stephenajulu.com/blog/the-best-investments-to-own-before-a-recession/)
 - [Investment Platforms and Apps for Kenyans](https://stephenajulu.com/blog/investment-platforms-and-apps-for-kenyans/)
-- [The Best Investments To Own Before A Recession](https://stephenajulu.com/blog/the-best-investments-to-own-before-a-recession/)
 - [Endocrine Disruptors: What They Are &amp; How To Avoid Them](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
 - [Why I Advocate For Saturated Fats Over Vegetable Oils&lpar;Updated&rpar;](https://stephenajulu.com/blog/why-i-advocate-for-saturated-fats-over-vegetable-oils/)
 - [5 Free Tools For Solopreneurs/Entrepreneurs &lpar;Updated&rpar;](https://stephenajulu.com/blog/5-free-tools-for-solopreneurs-entrepreneurs/)
