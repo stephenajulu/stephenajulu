@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Get Your Health and Life Back While Also Reversing Diseases](https://stephenajulu.com/blog/get-your-health-and-life-back-while-also-reversing-diseases/)
 - [The Best Investments To Own Before A Recession &lpar;UPDATED&rpar;](https://stephenajulu.com/blog/the-best-investments-to-own-before-a-recession/)
 - [Investment Platforms and Apps for Kenyans](https://stephenajulu.com/blog/investment-platforms-and-apps-for-kenyans/)
 - [Endocrine Disruptors: What They Are &amp; How To Avoid Them](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
 - [Why I Advocate For Saturated Fats Over Vegetable Oils&lpar;Updated&rpar;](https://stephenajulu.com/blog/why-i-advocate-for-saturated-fats-over-vegetable-oils/)
 - [5 Free Tools For Solopreneurs/Entrepreneurs &lpar;Updated&rpar;](https://stephenajulu.com/blog/5-free-tools-for-solopreneurs-entrepreneurs/)
 - [5 Free Tools For Creating Ebooks &lpar;Updated&rpar;](https://stephenajulu.com/blog/5-free-tools-for-creating-ebooks/)
-- [Phone Buying Tips](https://stephenajulu.com/blog/phone-buying-tips/)
 <!-- BLOG-POST-LIST:END -->
 
