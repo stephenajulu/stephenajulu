@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Wallpaper of The Week 1](https://stephenajulu.com/blog/wallpaper-of-the-week-1/)
 - [Keep Your Work Space Clean, Sleek and Tidy with This Minimal Leather Mat](https://stephenajulu.com/blog/keep-your-work-space-clean-sleek-and-tidy-with-this-minimal-leather-mat/)
 - [8 Wallpapers That Will Look Perfect On Your Phone](https://stephenajulu.com/blog/8-wallpapers-that-will-look-perfect-on-your-phone/)
 - [My Favorite Fonts](https://stephenajulu.com/blog/5-favorite-fonts/)
 - [Laptop Buying Guide](https://stephenajulu.com/blog/laptop-buying-guide/)
 - [All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe and Web 3 Identities](https://stephenajulu.com/blog/all-about-cryptocurrency-wallets-what-they-are-how-to-keep-them-safe-and-web-3-identities/)
 - [Get Your Health and Life Back While Also Reversing Diseases](https://stephenajulu.com/blog/get-your-health-and-life-back-while-also-reversing-diseases/)
-- [The Best Investments To Own Before A Recession &lpar;UPDATED&rpar;](https://stephenajulu.com/blog/the-best-investments-to-own-before-a-recession/)
 <!-- BLOG-POST-LIST:END -->
 
