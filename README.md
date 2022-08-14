@@ -7,12 +7,12 @@
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Use Cases for Cryptocurrencies](https://stephenajulu.com/blog/6-use-cases-for-cryptocurrency/)
 - [How Shell Is Using Web3 And Blockchain For Sustainability And Energy Transition](https://stephenajulu.com/blog/how-shell-is-using-web3-and-blockchain-for-sustainability-and-energy-transition/)
 - [Endocrine&lpar;Hormonal&rpar; Disruptors in Grooming Products and Cosmetics](https://stephenajulu.com/blog/endocrine-hormonal-disruptors-in-grooming-products-and-cosmetics/)
 - [Wallpaper of The Week 1](https://stephenajulu.com/blog/wallpaper-of-the-week-1/)
 - [Keep Your Work Space Clean, Sleek and Tidy with This Minimal Leather Mat](https://stephenajulu.com/blog/keep-your-work-space-clean-sleek-and-tidy-with-this-minimal-leather-mat/)
 - [8 Wallpapers That Will Look Perfect On Your Phone](https://stephenajulu.com/blog/8-wallpapers-that-will-look-perfect-on-your-phone/)
 - [My Favorite Fonts](https://stephenajulu.com/blog/5-favorite-fonts/)
-- [Laptop Buying Guide](https://stephenajulu.com/blog/laptop-buying-guide/)
 <!-- BLOG-POST-LIST:END -->
 
