@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "7"
+          max_post_count: "3"
           feed_list: "https://stephenajulu.com/blog/feed.xml,https://stephenajulu.com/store/feed.xml,https://www.youtube.com/feeds/videos.xml?channel_id=UC043ZXL-t3yqtgcIxJmkHuA"
