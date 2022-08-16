@@ -2,7 +2,7 @@
 
 # Hello, I'm Stephen!
 
-### Focused on building impactful solutions, products, brands and services
+### Passionated about building impactful solutions and writing
 
 I'm a web/app **developer**, branding/UI/UX **designer**, and **entreprenuer** with an enthusiasim for DL/ML/AI, AR/VR and Blockchain Technolody.
 
