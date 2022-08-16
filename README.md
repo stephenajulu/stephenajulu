@@ -4,7 +4,7 @@
 
 ### Passionated about building impactful solutions and writing
 
-I'm a web/app **developer**, branding/UI/UX **designer**, and **entreprenuer** with intrests in ML/AI, AR/VR, IOT, robotics, industrial design, autonomous things and blockchain technology.
+I'm a web/app **developer**, branding/UI/UX **designer**, and **entreprenuer** with interests in ML/AI, AR/VR, IOT, robotics, industrial design, autonomous things and blockchain technology.
 
 Feel free to browse my repos. You can learn more from my website: [stephenajulu.com](https://www.stephenajulu.com). You can also read my [blog](https://www.stephenajulu.com/blog), take a look at my [portfoliio](https://www.stephenajulu.com/portfolio) and buy my [digital products](https://www.stephenajulu.com/store)
 
