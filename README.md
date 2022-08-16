@@ -4,7 +4,7 @@
 
 ### Passionated about building impactful solutions and writing
 
-I'm a web/app **developer**, branding/UI/UX **designer**, and **entreprenuer** with an enthusiasim for DL/ML/AI, AR/VR and Blockchain Technolody.
+I'm a web/app **developer**, branding/UI/UX **designer**, and **entreprenuer** with intrests in ML/AI, AR/VR, IOT and blockchain technology.
 
 Feel free to browse my repositories and leave stars in your wake. You can learn more from my website: [stephenajulu.com](https://www.stephenajulu.com), read my [blog](https://www.stephenajulu.com/blog), take a look at my [portfoliio](https://www.stephenajulu.com/portfolio), buy my [stuff](https://www.stephenajulu.com/store) and look at more ways you can [find me online](https://www.stephenajulu.com/links).
 
