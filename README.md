@@ -1,6 +1,6 @@
   <!-- Hello there! Feel free to make this your own but kindly don't use my data. Attributions are welcomed & appreciated --> 
 
-# Hello, I'm Stephen Ajulu!
+# Hello, I'm Stephen!
 
 ### Focused on building impactful solutions, products, brands and services
 
