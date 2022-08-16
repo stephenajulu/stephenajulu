@@ -4,7 +4,7 @@
 
 ### Passionated about building impactful solutions and writing
 
-I'm a web/app **developer**, branding/UI/UX **designer**, and **entreprenuer** with interests in ML/AI, AR/VR, IOT, robotics, industrial design, autonomous things and blockchain technology.
+I'm a _web/app_ **developer**, _branding/UI/UX_ **designer**, and **entreprenuer** with interests in _ML/AI, AR/VR, IOT, robotics, industrial design, autonomous things and blockchain technology._
 
 Feel free to browse my repos. You can learn more from my website: [stephenajulu.com](https://stephenajulu.com). You can also read my [blog](https://stephenajulu.com/blog), take a look at my [portfoliio](https://stephenajulu.com/portfolio) and buy my [digital products](https://stephenajulu.com/store)
 
@@ -16,6 +16,5 @@ Feel free to browse my repos. You can learn more from my website: [stephenajulu.
 <!-- BLOG-POST-LIST:START -->
 - [6 Use Cases for Cryptocurrencies](https://stephenajulu.com/blog/6-use-cases-for-cryptocurrency/)
 - [How Shell Is Using Web3 And Blockchain For Sustainability And Energy Transition](https://stephenajulu.com/blog/how-shell-is-using-web3-and-blockchain-for-sustainability-and-energy-transition/)
-- [Endocrine&lpar;Hormonal&rpar; Disruptors in Grooming Products and Cosmetics](https://stephenajulu.com/blog/endocrine-hormonal-disruptors-in-grooming-products-and-cosmetics/)
 <!-- BLOG-POST-LIST:END -->
 
