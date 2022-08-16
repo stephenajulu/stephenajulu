@@ -11,7 +11,7 @@ Feel free to browse my repos. You can learn more from my website: [stephenajulu.
 ###### [Get in touch with me](https://stephenajulu.com/contact) | [Links](https://stephenajulu.com/links) | [Follow me on Twitter](https://twitter.com/stephenajulu) | [Instagram](https://instagram.com/stephenajulu) | [LinkedIn](https://linkedin.com/in/stephenajulu)
 
 
-#### My Latest Articles:
+#### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
 - [6 Use Cases for Cryptocurrencies](https://stephenajulu.com/blog/6-use-cases-for-cryptocurrency/)
