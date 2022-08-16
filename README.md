@@ -6,9 +6,9 @@
 
 I'm a web/app **developer**, branding/UI/UX **designer**, and **entreprenuer** with interests in ML/AI, AR/VR, IOT, robotics, industrial design, autonomous things and blockchain technology.
 
-Feel free to browse my repos. You can learn more from my website: [stephenajulu.com](https://www.stephenajulu.com). You can also read my [blog](https://www.stephenajulu.com/blog), take a look at my [portfoliio](https://www.stephenajulu.com/portfolio) and buy my [digital products](https://www.stephenajulu.com/store)
+Feel free to browse my repos. You can learn more from my website: [stephenajulu.com](https://stephenajulu.com). You can also read my [blog](https://stephenajulu.com/blog), take a look at my [portfoliio](https://stephenajulu.com/portfolio) and buy my [digital products](https://stephenajulu.com/store)
 
-###### [Get in touch with me](https://www.stephenajulu.com/contact) | [Links](https://www.stephenajulu.com/links)
+###### [Get in touch with me](https://stephenajulu.com/contact) | [Links](https://stephenajulu.com/links) | [Follow me on Twitter](https://twitter.com/stephenajulu) | [Instagram](https://instagram.com/stephenajulu) | [LinkedIn](https://linkedin.com/in/stephenajulu)
 
 
 <h5>My Latest Articles</h5>
