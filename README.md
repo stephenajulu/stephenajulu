@@ -2,7 +2,7 @@
 
 # Hello, I'm Stephen!
 
-### Passionated about building impactful solutions and writing
+### Passionate about building impactful solutions and writing
 
 I'm a _web/app_ **developer**, _branding/UI/UX_ **designer**, and **entreprenuer** with interests in _ML/AI, AR/VR, IOT, robotics, industrial design, autonomous things and blockchain technology._
 
