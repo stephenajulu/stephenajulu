@@ -14,8 +14,8 @@ Feel free to browse my repos. You can learn more from my website: [stephenajulu.
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hire Web3 Developers: Everything you need to know](https://stephenajulu.com/blog/hire-web3-developers-everything-you-need-to-know/)
 - [Interesting Technologies 2022: Part 1](https://stephenajulu.com/blog/interesting-technologies-2022-part-1/)
 - [Reverse Aging Using Scientific and Unconventional Methods](https://stephenajulu.com/blog/reverse-aging-using-scientific-and-unconventional-methods/)
-- [The Importance and Benefits of Blockchain Technology](https://stephenajulu.com/blog/the-importance-and-benefits-of-blockchain-technology/)
 <!-- BLOG-POST-LIST:END -->
 
