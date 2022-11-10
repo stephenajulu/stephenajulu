@@ -14,8 +14,8 @@ Feel free to browse my repos. You can learn more from my website: [stephenajulu.
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Rules for Life: An Antidote to Chaos by Jordan B Peterson - Digested Book Summary](https://stephenajulu.com/blog/book-summary-12-rules-by-jordan-peterson/)
+- [Koha: How To Setup Gmail Email Notices with Postfix](https://stephenajulu.com/blog/koha-how-to-setup-gmail-email-notices-with-postfix/)
 - [Hire Web3 Developers: Everything you need to know](https://stephenajulu.com/blog/hire-web3-developers-everything-you-need-to-know/)
-- [Interesting Technologies 2022: Part 1](https://stephenajulu.com/blog/interesting-technologies-2022-part-1/)
-- [Reverse Aging Using Scientific and Unconventional Methods](https://stephenajulu.com/blog/reverse-aging-using-scientific-and-unconventional-methods/)
 <!-- BLOG-POST-LIST:END -->
 
