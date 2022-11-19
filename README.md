@@ -2,14 +2,9 @@
 
 # Hello, I'm Stephen!
 
-I'm a designer, developer, writer and investor. I'm currently working on Julz Insight, Hyvaros and NeoNairobi.
+I'm a designer, developer, writer and investor. I'm currently working on Julz Insight, Hyvaros and NeoNairobi. I have a passion for building, investing and writing things of which you can see below.
 
-I have a passion for building, investing and writing things of which you can see below.
-
-You can learn more from my website: [stephenajulu.com](https://stephenajulu.com). You can also read my [blog](https://stephenajulu.com/blog), take a look at my [portfoliio](https://stephenajulu.com/portfolio) and buy my [digital products](https://stephenajulu.com/store)
-
-[Get in touch with me](https://stephenajulu.com/contact) | [Links](https://stephenajulu.com/links) | [Follow me on Twitter](https://twitter.com/stephenajulu) | [Instagram](https://instagram.com/stephenajulu) | [LinkedIn](https://linkedin.com/in/stephenajulu)
-
+[stephenajulu.com](https://stephenajulu.com) | [Blog](https://stephenajulu.com/blog) | [Portfolio](https://stephenajulu.com/portfolio) | [Shop](https://stephenajulu.com/store) | [Get in touch with me](https://stephenajulu.com/contact) | [Links](https://stephenajulu.com/links) | [Follow me on Twitter](https://twitter.com/stephenajulu) | [Instagram](https://instagram.com/stephenajulu) | [LinkedIn](https://linkedin.com/in/stephenajulu)
 
 #### My Latest:
 
