@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Benefits of Security in DevSecOps](https://stephenajulu.com/blog/benefits-of-security-in-devsecops/)
 - [8 Basic Laws Of Men](https://stephenajulu.com/blog/8-basic-laws-of-men/)
 - [12 Rules for Life: An Antidote to Chaos by Jordan B Peterson - Digested Book Summary](https://stephenajulu.com/blog/book-summary-12-rules-by-jordan-peterson/)
-- [Koha: How To Setup Gmail Email Notices with Postfix](https://stephenajulu.com/blog/koha-how-to-setup-gmail-email-notices-with-postfix/)
 <!-- BLOG-POST-LIST:END -->
 
