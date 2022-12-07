@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Add Users to Microsoft Dynamics Navision ERP](https://stephenajulu.com/blog/add-users-to-microsoft-dynamics-navision-erp/)
 - [Benefits of Security in DevSecOps](https://stephenajulu.com/blog/benefits-of-security-in-devsecops/)
 - [8 Basic Laws Of Men](https://stephenajulu.com/blog/8-basic-laws-of-men/)
-- [12 Rules for Life: An Antidote to Chaos by Jordan B Peterson - Digested Book Summary](https://stephenajulu.com/blog/book-summary-12-rules-by-jordan-peterson/)
 <!-- BLOG-POST-LIST:END -->
 
