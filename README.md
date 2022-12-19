@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Advice from a Multi-Millionaire on Life Optimization: Alex Becker](https://stephenajulu.com/blog/advice-from-a-multi-millionaire-on-life-optimization-alex-becker/)
 - [Add Users to Microsoft Dynamics Navision ERP](https://stephenajulu.com/blog/add-users-to-microsoft-dynamics-navision-erp/)
 - [Benefits of Security in DevSecOps](https://stephenajulu.com/blog/benefits-of-security-in-devsecops/)
-- [8 Basic Laws Of Men](https://stephenajulu.com/blog/8-basic-laws-of-men/)
 <!-- BLOG-POST-LIST:END -->
 
