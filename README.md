@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Here&#39;s how I&#39;m going to be an outlier &quot;Top 10%&quot; male in 5 years](https://stephenajulu.com/blog/here-s-how-i-m-going-to-be-an-outlier-top-10-male-in-5-years/)
 - [What Causes Alzheimer’s? Scientists Are Rethinking the Answer.](https://stephenajulu.com/blog/what-causes-alzheimer-s-scientists-are-rethinking-the-answer/)
 - [Advice from a Multi-Millionaire on Life Optimization: Alex Becker](https://stephenajulu.com/blog/advice-from-a-multi-millionaire-on-life-optimization-alex-becker/)
-- [Add Users to Microsoft Dynamics Navision ERP](https://stephenajulu.com/blog/add-users-to-microsoft-dynamics-navision-erp/)
 <!-- BLOG-POST-LIST:END -->
 
