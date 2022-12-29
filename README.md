@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Animal Fat Good for You? The Science on Why it’s The Optimal Food for Humans](https://stephenajulu.com/blog/is-animal-fat-good-for-you-the-science-on-why-it-s-the-optimal-food-for-humans/)
 - [How I&#39;m going to be an outlier male in 5 years](https://stephenajulu.com/blog/here-s-how-i-m-going-to-be-an-outlier-top-10-male-in-5-years/)
 - [What Causes Alzheimer’s? Scientists Are Rethinking the Answer.](https://stephenajulu.com/blog/what-causes-alzheimer-s-scientists-are-rethinking-the-answer/)
-- [Advice from a Multi-Millionaire on Life Optimization: Alex Becker](https://stephenajulu.com/blog/advice-from-a-multi-millionaire-on-life-optimization-alex-becker/)
 <!-- BLOG-POST-LIST:END -->
 
