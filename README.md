@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Outlier Male Series: Who is an outlier male? What&#39;s the male advantage?](https://stephenajulu.com/blog/who-is-an-outlier-male-and-what-s-the-male-advantage/)
+- [Outlier Male Series: Mind, Body and Spirit](https://stephenajulu.com/blog/outlier-male-series-mind-body-and-spirit/)
 - [Is Animal Fat Good for You? The Science on Why it’s The Optimal Food for Humans](https://stephenajulu.com/blog/is-animal-fat-good-for-you-the-science-on-why-it-s-the-optimal-food-for-humans/)
-- [How I&#39;m going to be an outlier male in 5 years](https://stephenajulu.com/blog/here-s-how-i-m-going-to-be-an-outlier-top-10-male-in-5-years/)
-- [What Causes Alzheimer’s? Scientists Are Rethinking the Answer.](https://stephenajulu.com/blog/what-causes-alzheimer-s-scientists-are-rethinking-the-answer/)
 <!-- BLOG-POST-LIST:END -->
 
