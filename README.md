@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
-- [Outlier Male Series: Who is an outlier male? What&#39;s the male advantage?](https://stephenajulu.com/blog/who-is-an-outlier-male-and-what-s-the-male-advantage/)
-- [Outlier Male Series: Mind, Body and Spirit](https://stephenajulu.com/blog/outlier-male-series-mind-body-and-spirit/)
-- [Is Animal Fat Good for You? The Science on Why it’s The Optimal Food for Humans](https://stephenajulu.com/blog/is-animal-fat-good-for-you-the-science-on-why-it-s-the-optimal-food-for-humans/)
+- [The Future of Virtual Reality: Predictions and Possibilities](https://stephenajulu.com/blog/the-future-of-virtual-reality-predictions-and-possibilities/)
+- [The State of Cybersecurity Going Forward to 2023: Threats, Trends, and Solutions](https://stephenajulu.com/blog/the-state-of-cybersecurity-going-forward-to-2023-threats-trends-and-solutions/)
+- [ChatGPT: A Revolutionary Chatbot Utilizing the GPT-3 Language Processing Model](https://stephenajulu.com/blog/chatgpt-a-revolutionary-chatbot-utilizing-the-gpt-3-language-processing-model/)
 <!-- BLOG-POST-LIST:END -->
 
