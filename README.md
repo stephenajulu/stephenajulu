@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
-- [Will True AI Turn Against Us? Understanding the Risks and Challenges of Artificial Intelligence](https://stephenajulu.com/blog/will-true-ai-turn-against-us-understanding-the-risks-and-challenges-of-artificial-intelligence/)
-- [The Importance of Internet of Things &lpar;IoT&rpar; in Smart Cities and Home Automation](https://stephenajulu.com/blog/the-importance-of-internet-of-things-iot-in-smart-cities-and-home-automation/)
-- [Unlocking the Potential of Machine Learning in Business: Applications, Benefits and Challenges](https://stephenajulu.com/blog/unlocking-the-potential-of-machine-learning-in-business-applications-benefits-and-challenges/)
+- [Beyond Art - Unlocking the Potential: How to Use NFTs as Access Keys](https://stephenajulu.com/blog/beyond-art-unlocking-the-potential-how-to-use-nfts-as-access-keys/)
+- [Exploring the Use Cases of Non-Fungible Tokens &lpar;NFTs&rpar; in Various Industries](https://stephenajulu.com/blog/exploring-the-use-cases-of-non-fungible-tokens-nfts-in-various-industries/)
+- [How Hackers are Using ChatGPT for Cyber Attacks: Understanding the Threats and How to Protect Against Them](https://stephenajulu.com/blog/how-hackers-are-using-chatgpt-for-cyber-attacks-understanding-the-threats-and-how-to-protect-against-them/)
 <!-- BLOG-POST-LIST:END -->
 
