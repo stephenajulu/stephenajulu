@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Will True AI Turn Against Us? Understanding the Risks and Challenges of Artificial Intelligence](https://stephenajulu.com/blog/will-true-ai-turn-against-us-understanding-the-risks-and-challenges-of-artificial-intelligence/)
+- [The Importance of Internet of Things &lpar;IoT&rpar; in Smart Cities and Home Automation](https://stephenajulu.com/blog/the-importance-of-internet-of-things-iot-in-smart-cities-and-home-automation/)
 - [Unlocking the Potential of Machine Learning in Business: Applications, Benefits and Challenges](https://stephenajulu.com/blog/unlocking-the-potential-of-machine-learning-in-business-applications-benefits-and-challenges/)
-- [Step-by-Step Guide to Improving Your Search Engine Ranking](https://stephenajulu.com/blog/step-by-step-guide-to-improving-your-search-engine-ranking/)
-- [Potential Causes of Cancer and Cancerous Cells](https://stephenajulu.com/blog/potential-causes-of-cancer-and-cancerous-cells/)
 <!-- BLOG-POST-LIST:END -->
 
