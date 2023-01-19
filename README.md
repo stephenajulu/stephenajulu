@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Potential of Smart Contracts Across Industries: From Supply Chain Management to Healthcare](https://stephenajulu.com/blog/unlocking-the-potential-of-smart-contracts-across-industries-from-supply-chain-management-to-healthcare/)
 - [Beyond Art - Unlocking the Potential: How to Use NFTs as Access Keys](https://stephenajulu.com/blog/beyond-art-unlocking-the-potential-how-to-use-nfts-as-access-keys/)
 - [Exploring the Use Cases of Non-Fungible Tokens &lpar;NFTs&rpar; in Various Industries](https://stephenajulu.com/blog/exploring-the-use-cases-of-non-fungible-tokens-nfts-in-various-industries/)
-- [How Hackers are Using ChatGPT for Cyber Attacks: Understanding the Threats and How to Protect Against Them](https://stephenajulu.com/blog/how-hackers-are-using-chatgpt-for-cyber-attacks-understanding-the-threats-and-how-to-protect-against-them/)
 <!-- BLOG-POST-LIST:END -->
 
