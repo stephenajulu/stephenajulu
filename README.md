@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Science Behind the Carnivore Diet: How a Meat-Only Diet Can Improve Health and Promote Weight Loss](https://stephenajulu.com/blog/the-science-behind-the-carnivore-diet-how-a-meat-only-diet-can-improve-health-and-promote-weight-loss/)
+- [Gradient Blur Wallpaper Pack 1&lpar;Black and Single Color&rpar;](https://stephenajulu.com/store/gradient-blur-wallpaper-pack-1-black-and-single-color/)
 - [Unlocking the Potential of Superhuman Intelligence with Neuralink and ChatGPT - This Could Change The World!](https://stephenajulu.com/blog/unlocking-the-potential-of-superhuman-intelligence-with-neuralink-and-chatgpt-this-could-change-the-world/)
-- [Efficiency Unleashed - The Top 20 Mobile Apps and Web Tools for Freelancers, Consultants, and Entrepreneurs](https://stephenajulu.com/blog/efficiency-unleashed-the-top-20-mobile-apps-and-web-tools-for-freelancers-consultants-and-entrepreneurs/)
-- [Supercharge Your Business: Unlock the Power of AI to Take Your Business to the Next Level](https://stephenajulu.com/blog/supercharge-your-business-unlock-the-power-of-ai-to-take-your-business-to-the-next-level/)
 <!-- BLOG-POST-LIST:END -->
 
