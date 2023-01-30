@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future is Now: Emerging Technologies That Will Shape Our World](https://stephenajulu.com/blog/the-future-is-now-emerging-technologies-that-will-shape-our-world/)
 - [Red Meat: Friend or Foe](https://stephenajulu.com/blog/red-meat-friend-or-foe/)
 - [Hot vs Cold Wallet: Which is the Best Option for Storing Cryptocurrency?](https://stephenajulu.com/blog/hot-vs-cold-wallet-which-is-the-best-option-for-storing-cryptocurrency/)
-- [Developing for the Web 3: The Basics](https://stephenajulu.com/blog/developing-for-the-web-3-the-basics/)
 <!-- BLOG-POST-LIST:END -->
 
