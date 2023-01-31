@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Basic Guide to SEO - Boost Your Website&#39;s Search Engine Rankings](https://stephenajulu.com/store/the-ultimate-basic-guide-to-seo-boost-your-website-s-search-engine-rankings/)
 - [The Future is Now: Emerging Technologies That Will Shape Our World](https://stephenajulu.com/blog/the-future-is-now-emerging-technologies-that-will-shape-our-world/)
 - [Invest in Disruptive Technologies - The Future is Now](https://stephenajulu.com/blog/invest-in-disruptive-technologies-the-future-is-now/)
-- [Red Meat: Friend or Foe](https://stephenajulu.com/blog/red-meat-friend-or-foe/)
 <!-- BLOG-POST-LIST:END -->
 
