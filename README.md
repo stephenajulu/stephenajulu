@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Conversations with ChatGPT - Exploring the Science Behind Nutrition](https://stephenajulu.com/blog/conversations-with-chatgpt-exploring-the-science-behind-nutrition/)
 - [Santa Lucia Fragrance - Experience the Soothing Aroma of Luxury at Affordable Prices](https://stephenajulu.com/blog/santa-lucia-fragrance-experience-the-soothing-aroma-of-luxury-at-affordable-prices/)
 - [The Ultimate Basic Guide to SEO - Boost Your Website&#39;s Search Engine Rankings](https://stephenajulu.com/store/the-ultimate-basic-guide-to-seo-boost-your-website-s-search-engine-rankings/)
-- [The Future is Now: Emerging Technologies That Will Shape Our World](https://stephenajulu.com/blog/the-future-is-now-emerging-technologies-that-will-shape-our-world/)
 <!-- BLOG-POST-LIST:END -->
 
