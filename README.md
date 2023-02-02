@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Daily Tech: Holograms](https://stephenajulu.com/blog/the-future-of-daily-tech-holograms/)
 - [Exploring Computer Enabled Fantasies](https://stephenajulu.com/blog/exploring-computer-enabled-fantasies/)
 - [Conversations with ChatGPT - Exploring the Science Behind Nutrition](https://stephenajulu.com/blog/conversations-with-chatgpt-exploring-the-science-behind-nutrition/)
-- [Santa Lucia Fragrance - Experience the Soothing Aroma of Luxury at Affordable Prices](https://stephenajulu.com/blog/santa-lucia-fragrance-experience-the-soothing-aroma-of-luxury-at-affordable-prices/)
 <!-- BLOG-POST-LIST:END -->
 
