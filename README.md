@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [For The Love of Desk Mats: ULX Review](https://stephenajulu.com/blog/for-the-love-of-desk-mats-ulx-review/)
+- [For The Love of Hoodies: ESNTLS Review](https://stephenajulu.com/blog/for-the-love-of-hoodies-esntls-review/)
 - [The Future of Daily Tech: Cloud Gaming](https://stephenajulu.com/blog/the-future-of-daily-tech-cloud-gaming/)
-- [The Future of Daily Tech: Wireless Charging](https://stephenajulu.com/blog/the-future-of-daily-tech-wireless-charging/)
-- [The Future of Daily Tech: Holograms](https://stephenajulu.com/blog/the-future-of-daily-tech-holograms/)
 <!-- BLOG-POST-LIST:END -->
 
