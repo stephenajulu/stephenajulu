@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [25 Upcoming NFT Projects to Invest in and Get In on Early](https://stephenajulu.com/blog/25-upcoming-nft-projects-to-invest-in-and-get-in-on-early/)
+- [The Future of Daily Tech: Augmented Reality](https://stephenajulu.com/blog/the-future-of-daily-tech-augmented-reality/)
 - [The Future of Your Daily Life: From Smart Homes to Wearable Tech](https://stephenajulu.com/blog/the-future-of-your-daily-life-from-smart-homes-to-wearable-tech/)
-- [The Future of Daily Tech: Everything is Wireless](https://stephenajulu.com/blog/the-future-of-daily-tech-everything-is-wireless/)
-- [The Future of Daily Tech: Everything is Modular](https://stephenajulu.com/blog/the-future-of-daily-tech-everything-is-modular/)
 <!-- BLOG-POST-LIST:END -->
 
