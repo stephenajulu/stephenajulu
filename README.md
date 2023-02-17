@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Wireless Communication: 6G Network and WiFi 7 Technology](https://stephenajulu.com/blog/the-future-of-wireless-communication-6g-network-and-wifi-7-technology/)
 - [The Future of Daily Life](https://stephenajulu.com/blog/the-future-of-daily-life/)
 - [The Future of Daily Tech: Nanotechnology](https://stephenajulu.com/blog/the-future-of-daily-tech-nanotechnology/)
-- [25 Upcoming NFT Projects to Invest in and Get In on Early](https://stephenajulu.com/blog/25-upcoming-nft-projects-to-invest-in-and-get-in-on-early/)
 <!-- BLOG-POST-LIST:END -->
 
