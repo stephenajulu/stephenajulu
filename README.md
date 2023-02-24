@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Debt Problem in Kenya: Causes, Effects, and Solutions](https://stephenajulu.com/blog/the-debt-problem-in-kenya-causes-effects-and-solutions/)
+- [Understanding the Power of GPT-4: The Future of AI Language Models](https://stephenajulu.com/blog/understanding-the-power-of-gpt-4-the-future-of-ai-language-models/)
 - [Personal Branding 101: Choosing the Right Platform and Content Format](https://stephenajulu.com/blog/personal-branding-101-choosing-the-right-platform-and-content-format/)
-- [The Life of Underachieving Men Today](https://stephenajulu.com/blog/the-life-of-underachieving-men-today/)
-- [Shocking Truth Revealed: Why Fertility is Dropping at an Alarming Rate in Both Males and Females!](https://stephenajulu.com/blog/shocking-truth-revealed-why-fertility-is-dropping-at-an-alarming-rate-in-both-males-and-females/)
 <!-- BLOG-POST-LIST:END -->
 
