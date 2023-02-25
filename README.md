@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Brain-Computer Interfaces: The Future of Human-Machine Interaction](https://stephenajulu.com/blog/brain-computer-interfaces-the-future-of-human-machine-interaction/)
 - [How Men Can Get Over Rejection or Heart Break: Unconventional](https://stephenajulu.com/blog/how-men-can-get-over-rejection-or-heart-break-unconventional/)
 - [The Ultimate Guide to Semen Retention: Boost Your Health, Focus, and Manifestation Power](https://stephenajulu.com/blog/the-ultimate-guide-to-semen-retention-boost-your-health-happiness-and-manifestation-power/)
-- [The Debt Problem in Kenya: Causes, Effects, and Solutions](https://stephenajulu.com/blog/the-debt-problem-in-kenya-causes-effects-and-solutions/)
 <!-- BLOG-POST-LIST:END -->
 
