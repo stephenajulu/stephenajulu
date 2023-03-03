@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [Personal Branding 101: How to Present Yourself in Social Media Including Cover Images, Bio Optimization, and Presentation](https://stephenajulu.com/blog/personal-branding-101-how-to-present-yourself-in-social-media-including-cover-images-bio-optimization-and-presentation/)
 - [The Future of Daily Tech: How NFTs will Impact Your Future](https://stephenajulu.com/blog/the-future-of-daily-tech-how-nfts-will-impact-your-future/)
 - [The Importance of Testosterone for Men&#39;s Life and Health](https://stephenajulu.com/blog/the-importance-of-testosterone-for-men-s-life-and-health/)
-- [Potential Medium to High Returns Investment Options To Explore](https://stephenajulu.com/blog/potential-medium-to-high-returns-investment-options-to-explore/)
 <!-- BLOG-POST-LIST:END -->
 
