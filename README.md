@@ -9,8 +9,8 @@ I'm a designer, developer, writer and investor. I'm currently working on Julz In
 #### My Latest:
 
 <!-- BLOG-POST-LIST:START -->
+- [A Captivating Glimpse into the Future Where AI LLAMs Shape Our Lives](https://stephenajulu.com/blog/a-captivating-glimpse-into-the-future-where-llams-shape-our-lives/)
 - [Why Does A Meat Only Diet Cure So Many Things](https://stephenajulu.com/blog/why-does-a-meat-only-diet-cure-so-many-things/)
 - [How Polyunsaturated Fats&lpar;PUFAs&rpar; Promote and Increase Inflammation](https://stephenajulu.com/blog/how-polyunsaturated-fats-pufas-promote-and-increase-inflammation/)
-- [14 Powerful and Masculine Perfumes for THE MAN](https://stephenajulu.com/blog/14-powerful-and-masculine-perfumes-for-the-man/)
 <!-- BLOG-POST-LIST:END -->
 
