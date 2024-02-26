@@ -9,7 +9,7 @@ I also run — Julz Insight Holdings, a holding and investment firm that holds a
 I'm passionate about learning, building, writing, and investing in interesting things. 
 Find me here: [personal website](https://stephenajulu.com) or read my articles here: [blog](https://stephenajulu.com/blog). Pass by and check out my: [projects & portfolio](https://stephenajulu.com/portfolio). Want to support or buy my digital products? Learn more and inquire here: [shop](https://stephenajulu.com/store). This is a list of places you can find me online: [links](https://stephenajulu.com/links). You can also follow me on [twitter](https://twitter.com/stephenajulu), [instagram](https://instagram.com/stephenajulu) & [linkedIn](https://linkedin.com/in/stephenajulu)
 
-#### Articles:
+#### Insights:
 
 <!-- BLOG-POST-LIST:START -->
 - [A Captivating Glimpse into the Future Where AI LLAMs Shape Our Lives](https://stephenajulu.com/blog/a-captivating-glimpse-into-the-future-where-llams-shape-our-lives/)
