@@ -7,7 +7,7 @@ My name is Ajulu, an IT Professional, Writer, and Consultant.
 I run — julzlabs, a tech firm that builds cutting-edge tech products and solutions while providing research, design, development, marketing, integration, and digital transformation services.
 I also run — Julz Insight Holdings, a holding and investment firm that holds and invests in impactful cutting-edge products, brands, startups, and solutions. 
 I'm passionate about learning, building, writing, and investing in interesting things. 
-Find me here: [personal website](https://stephenajulu.com) or reach my blog here: [blogs & thoughts](https://stephenajulu.com/blog). Pass by and check out my: [projects & portfolio](https://stephenajulu.com/portfolio). Want to support or buy my digital products? Learn more and inquire here: [Shop](https://stephenajulu.com/store). This is a list of places you can find me online: [Links](https://stephenajulu.com/links). You can also follow me on [Twitter](https://twitter.com/stephenajulu), [Instagram](https://instagram.com/stephenajulu) & [LinkedIn](https://linkedin.com/in/stephenajulu)
+Find me here: [personal website](https://stephenajulu.com) or read my articles here: [blog](https://stephenajulu.com/blog). Pass by and check out my: [projects & portfolio](https://stephenajulu.com/portfolio). Want to support or buy my digital products? Learn more and inquire here: [Shop](https://stephenajulu.com/store). This is a list of places you can find me online: [Links](https://stephenajulu.com/links). You can also follow me on [Twitter](https://twitter.com/stephenajulu), [Instagram](https://instagram.com/stephenajulu) & [LinkedIn](https://linkedin.com/in/stephenajulu)
 
 #### My Latest:
 
