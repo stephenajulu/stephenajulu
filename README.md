@@ -11,6 +11,10 @@ Find me here: [personal website](https://stephenajulu.com) or read my articles h
 
 Currently building interesting products. Watch this space for updates.
 
+I have limited availability and occasionally take on freelance projects and consulting. I'm also open to joining boards and advisory roles. If you're interested, please get in touch.
+
+Also, I have a [private mailing list](https://stephenajulu.substack.com) where I keep 1000+ people up to date with what I'm working on. Feel free to join if you're interested.
+
 #### Insights:
 
 <!-- BLOG-POST-LIST:START -->
