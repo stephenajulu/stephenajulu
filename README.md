@@ -2,7 +2,7 @@
 
 Hello there 👋🏽
 
-My name is Ajulu, an IT Professional, Writer, and Consultant. I run — [julzlabs](https://julzlabs.co), a tech firm that builds cutting-edge tech products and solutions while providing research, design, development, marketing, integration, and digital transformation services. I also run — [Julz Insight Holdings](https://julzinsight.co), a holding and investment firm that holds and invests in impactful cutting-edge products, brands, startups, and solutions. I'm passionate about learning, building, writing, and investing in interesting things. 
+My name is Ajulu, an IT Professional, Writer, and Consultant. I run — [Julz Insight](https://julzinsight.co), a tech firm that builds cutting-edge tech products and solutions while providing research, design, development, marketing, integration, and digital transformation services. I also run — [Ajulu Holdings](https://julzinsight.co), a holding and investment firm that holds and invests in impactful cutting-edge products, brands, startups, and solutions. I'm passionate about learning, building, writing, and investing in interesting things. 
 
 Currently building interesting products. Watch this space for updates.
 
