@@ -13,8 +13,8 @@ I have limited availability and occasionally take on freelance projects and cons
 #### Insights:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Captivating Glimpse into the Future Where AI LLAMs Shape Our Lives](https://stephenajulu.com/blog/a-captivating-glimpse-into-the-future-where-llams-shape-our-lives/)
-- [Why Does A Meat Only Diet Cure So Many Things](https://stephenajulu.com/blog/why-does-a-meat-only-diet-cure-so-many-things/)
-- [How Polyunsaturated Fats&lpar;PUFAs&rpar; Promote and Increase Inflammation](https://stephenajulu.com/blog/how-polyunsaturated-fats-pufas-promote-and-increase-inflammation/)
+- [Top 7 Masculine Fragrances Women Adore - The Ultimate Guide for Men](https://stephenajulu.com/posts/top-7-masculine-fragrances-women-adore-the-ultimate-guide-for-men/)
+- [A Captivating Glimpse into the Future Where AI LLAMs Shape Our Lives](https://stephenajulu.com/posts/a-captivating-glimpse-into-the-future-where-llams-shape-our-lives/)
+- [Why Does A Meat Only Diet Cure So Many Things](https://stephenajulu.com/posts/why-does-a-meat-only-diet-cure-so-many-things/)
 <!-- BLOG-POST-LIST:END -->
 
