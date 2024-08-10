@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "3"
-          feed_list: "https://stephenajulu.com/feed.xml,https://www.youtube.com/feeds/videos.xml?channel_id=UC043ZXL-t3yqtgcIxJmkHuA"
+          feed_list: "https://stephenajulu.netlify.app/feed.xml,https://www.youtube.com/feeds/videos.xml?channel_id=UC043ZXL-t3yqtgcIxJmkHuA"
