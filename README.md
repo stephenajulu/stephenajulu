@@ -13,8 +13,8 @@ I have limited availability and occasionally take on freelance projects and cons
 #### Insights:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pages](https://stephenajulu.com/page/)
-- [Blog](https://stephenajulu.com/blog/)
-- [Contact Me](https://stephenajulu.com/contact/)
+- [Pages](https://stephenajulu.netlify.app/page/)
+- [Blog](https://stephenajulu.netlify.app/blog/)
+- [Contact Me](https://stephenajulu.netlify.app/contact/)
 <!-- BLOG-POST-LIST:END -->
 
