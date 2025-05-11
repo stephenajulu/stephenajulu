@@ -9,7 +9,7 @@ I run — [Julz Insight](https://julzinsight.netlify.app), a tech firm that buil
 Find me here: [personal website, portfolio & blog](https://stephenajulu.netlify.app). Want to support or buy my digital products? Learn more and inquire here: [shop](https://stephenajulu.gumroad.com). You can also follow me on [X](https://x.com/stephenajulu), [instagram](https://instagram.com/stephenajulu) & [linkedIn](https://linkedin.com/in/stephenajulu).
 
 
-#### Insights:
+#### Other Links:
 
 <!-- BLOG-POST-LIST:START -->
 - [Pages](https://stephenajulu.netlify.app/page/)
