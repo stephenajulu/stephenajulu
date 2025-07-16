@@ -2,7 +2,9 @@
 
 Hello there 👋🏽
 
-My name is Ajulu,  a seasoned tech consultant, writer, and developer with over a decade of experience. I love crafting impactful products, brands, and solutions using tech and data-driven insights. Passionate about many domains, I delve into Writing, Web, Software & Product Development, Design, AI & LLMs, Blockchain & Web3, Cybersecurity, Automation, Data, Engineering & Manufacturing, and Cloud. Beyond expertise, I also offer bespoke services and solutions in these very realms.
+My name is **Ajulu**,  a seasoned tech consultant, writer, and developer with over a decade of experience. I love crafting impactful products, brands, and solutions that leverage technology and data-driven insights. Passionate about many domains, I delve into Writing, Web, Software & Product Development, Design, Linux, DevOps, AI & LLMs, Blockchain & Web3, Cybersecurity, Automation, Data, Engineering & Manufacturing, and Cloud. Beyond expertise, I also offer bespoke services and solutions in these very realms.
+
+
 
 I run — [Julz Insight](https://julzinsight.netlify.app), a tech firm that builds impactful tech solutions whilst also providing Managed Open-Source Business Infrastructure. I am building — [Julz Holdings](https://julzinsight.netlify.app), a personal holdings, venture capital, and investment firm.
 
