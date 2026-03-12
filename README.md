@@ -17,8 +17,8 @@ Find me here: [personal website, portfolio, blog & shop](https://stephenajulu.ne
 #### Other Links:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pages](https://stephenajulu.netlify.app/page/)
 - [Blog](https://stephenajulu.netlify.app/blog/)
-- [Contact Me](https://stephenajulu.netlify.app/contact/)
+- [Store](https://stephenajulu.netlify.app/store/)
+- [Services](https://stephenajulu.netlify.app/services/)
 <!-- BLOG-POST-LIST:END -->
 
