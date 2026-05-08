@@ -19,6 +19,6 @@ Find me here: [personal website, portfolio, blog & shop](https://ajulu.netlify.a
 <!-- BLOG-POST-LIST:START -->
 - [Notes](https://ajulu.netlify.app/notes/)
 - [Membership](https://ajulu.netlify.app/membership/)
-- [Portfolio](https://ajulu.netlify.app/projects/)
+- [Premium Member Test: The Future of aju.lu](https://ajulu.netlify.app/posts/premium-test-post/)
 <!-- BLOG-POST-LIST:END -->
 
