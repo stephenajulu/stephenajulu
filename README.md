@@ -17,8 +17,8 @@ Find me here: [personal website, portfolio, blog & shop](https://ajulu.netlify.a
 #### Other Links:
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes](https://ajulu.netlify.app/notes/)
-- [Membership](https://ajulu.netlify.app/membership/)
 - [Premium Member Test: The Future of aju.lu](https://ajulu.netlify.app/posts/premium-test-post/)
+- [Implementing Webmentions on Hugo: An IndieWeb Guide](https://ajulu.netlify.app/posts/indieweb-webmention-hugo-guide/)
+- [How to Use Optimized Images](https://ajulu.netlify.app/posts/image-optimization-demo/)
 <!-- BLOG-POST-LIST:END -->
 
