@@ -17,8 +17,8 @@ Find me here: [personal website, portfolio, blog & shop](https://ajulu.netlify.a
 #### Other Links:
 
 <!-- BLOG-POST-LIST:START -->
-- [Milestone: Membership &amp; Accessibility Live](https://ajulu.netlify.app/notes/membership-live/)
+- [Notes](https://ajulu.netlify.app/notes/)
+- [Membership](https://ajulu.netlify.app/membership/)
 - [Premium Member Test: The Future of aju.lu](https://ajulu.netlify.app/posts/premium-test-post/)
-- [Project Milestone: Site Modernized](https://ajulu.netlify.app/notes/site-modernized/)
 <!-- BLOG-POST-LIST:END -->
 
