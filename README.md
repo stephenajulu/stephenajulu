@@ -17,8 +17,8 @@ Find me here: [personal website, portfolio, blog & shop](https://ajulu.netlify.a
 #### Other Links:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog](https://ajulu.netlify.app/posts/)
-- [Store](https://ajulu.netlify.app/store/)
-- [Services](https://ajulu.netlify.app/services/)
+- [Notes](https://ajulu.netlify.app/notes/)
+- [Membership](https://ajulu.netlify.app/membership/)
+- [Portfolio](https://ajulu.netlify.app/projects/)
 <!-- BLOG-POST-LIST:END -->
 
