@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "3"
-          feed_list: "https://ajulu.netlify.app/feed.xml,https://www.youtube.com/feeds/videos.xml?channel_id=UC043ZXL-t3yqtgcIxJmkHuA"
+          feed_list: "https://ajulu.netlify.app/feed.xml,https://ajulu.netlify.app/posts/feed.xml,https://ajulu.netlify.app/notes/feed.xml"
